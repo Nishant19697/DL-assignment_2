@@ -49,7 +49,7 @@ python train.py \
   --in_dims 256 \
   --n_epochs 10 \
   --learning_rate 0.0001 \
-  --weight_decay 5e-5 \
+  --weight_decay 1e-3 \
   --batch_size 64 \
   --conv_activation GELU \
   --dense_activation ReLU \
@@ -63,11 +63,6 @@ python train.py \
 
 cd PART_SECOND
 python finetune.py \
-  --batch_size 64 \
-  --learning_rate 3e-5 \
-  --weight_decay 0.01 \
-  --n_epochs 10 \
-  --dropout 0.1 \
-  --scheduler cosine \
-  --freeze_backbone False
+ 
+
 
