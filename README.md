@@ -1,17 +1,23 @@
 # 🌿 iNaturalist Species Classification
 
-This repository contains deep learning experiments using the [iNaturalist](https://www.inaturalist.org/) dataset, focusing on image classification with Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). It includes W&B integration for experiment tracking and Bayesian sweeps for hyperparameter tuning.
+This repository contains deep learning experiments on the [iNaturalist](https://www.inaturalist.org/) dataset for species classification. We explore both **custom Convolutional Neural Networks (CNNs)** and **Vision Transformers (ViTs)**, with experiment tracking and hyperparameter optimization done using **Weights & Biases (W&B)**.
 
 ---
 
-## 📁 Repository Structure
-## 🧠 Part 1: CNN-Based Classification
+## 🧩 Project Structure
 
-### 📜 Description
 
-A custom Convolutional Neural Network is trained on the iNaturalist dataset. The model is defined in `model.py` and trained via `train.py`. Hyperparameter tuning is done using W&B Bayesian sweeps defined in `sweep.py`.
+---
 
-### ⚙️ CNN Sweep Configuration Highlights
+## 🔷 **PART A and B: CNN-Based Classification with Sweeps and ViT finetuning**
+
+### 📝 Description
+
+In Part A, a **custom CNN** is trained from scratch on the iNaturalist dataset. The architecture is defined in `model.py` and training is carried out via `train.py`. Hyperparameters are tuned using a **Bayesian W&B sweep** defined in `sweep.py`. In Part B, a pre-trained Vision Transformer (ViT) model is fine-tuned on the iNaturalist dataset. We provide both standard fine-tuning and W&B sweep-based tuning.
+finetune.py: For standard fine-tuning
+fine_tune_sweeps.py: For sweep-based tuning with W&B
+
+### 🧪 Sweep Configuration Sample
 
 ```python
 sweep_configuration = {
@@ -37,6 +43,7 @@ sweep_configuration = {
     }
 }
 
+
 cd PART_FIRST
 python train.py \
   --in_dims 256 \
@@ -54,24 +61,6 @@ python train.py \
   --dropout_prob 0.3 \
   --data_aug True
 
-
-## 🧠 Part 2: Fine-Tuning ViT on iNaturalist
-
-### 📜 Description
-
-This section focuses on fine-tuning a pre-trained Vision Transformer (ViT) model on the iNaturalist dataset for image classification. It includes two scripts:
-
-- `finetune.py`: Standard fine-tuning without sweeps.
-- `fine_tune_sweeps.py`: Hyperparameter tuning using W&B sweeps.
-
-### 📂 Folder Structure
-
-
-### 🔧 CLI Arguments (finetune.py)
-
-You can fine-tune the ViT model using the following command:
-
-```bash
 cd PART_SECOND
 python finetune.py \
   --batch_size 64 \
@@ -81,7 +70,4 @@ python finetune.py \
   --dropout 0.1 \
   --scheduler cosine \
   --freeze_backbone False
-
-
-
 
