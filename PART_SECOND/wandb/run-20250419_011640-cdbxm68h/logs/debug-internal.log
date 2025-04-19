@@ -1,0 +1,17 @@
+{"time":"2025-04-19T01:16:40.081554651+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T01:16:40.081595191+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_011640-cdbxm68h/logs/debug-core.log"}
+{"time":"2025-04-19T01:16:40.29244599+05:30","level":"INFO","msg":"created new stream","id":"cdbxm68h"}
+{"time":"2025-04-19T01:16:40.29247912+05:30","level":"INFO","msg":"stream: started","id":"cdbxm68h"}
+{"time":"2025-04-19T01:16:40.292528079+05:30","level":"INFO","msg":"sender: started","stream_id":"cdbxm68h"}
+{"time":"2025-04-19T01:16:40.292543579+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cdbxm68h"}
+{"time":"2025-04-19T01:16:40.292673548+05:30","level":"INFO","msg":"handler: started","stream_id":"cdbxm68h"}
+{"time":"2025-04-19T01:16:40.68651492+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T01:20:55.074588805+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T01:20:55.078338955+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T01:20:56.074396146+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.377794032,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.073649902,"progress":"624B/624B"},{"desc":"uploading output.log","runtime_seconds":0.073629312,"progress":"1.2KB/1.2KB"}],"total_operations":3}}
+{"time":"2025-04-19T01:20:57.308030482+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T01:20:58.663988631+05:30","level":"INFO","msg":"stream: closing","id":"cdbxm68h"}
+{"time":"2025-04-19T01:20:58.664019741+05:30","level":"INFO","msg":"handler: closed","stream_id":"cdbxm68h"}
+{"time":"2025-04-19T01:20:58.664032881+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cdbxm68h"}
+{"time":"2025-04-19T01:20:58.664041761+05:30","level":"INFO","msg":"sender: closed","stream_id":"cdbxm68h"}
+{"time":"2025-04-19T01:20:58.664154431+05:30","level":"INFO","msg":"stream: closed","id":"cdbxm68h"}

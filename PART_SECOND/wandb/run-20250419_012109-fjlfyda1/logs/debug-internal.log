@@ -1,0 +1,17 @@
+{"time":"2025-04-19T01:21:09.512214937+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T01:21:09.512245597+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_012109-fjlfyda1/logs/debug-core.log"}
+{"time":"2025-04-19T01:21:09.725581513+05:30","level":"INFO","msg":"created new stream","id":"fjlfyda1"}
+{"time":"2025-04-19T01:21:09.725647763+05:30","level":"INFO","msg":"stream: started","id":"fjlfyda1"}
+{"time":"2025-04-19T01:21:09.725702083+05:30","level":"INFO","msg":"sender: started","stream_id":"fjlfyda1"}
+{"time":"2025-04-19T01:21:09.725694243+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fjlfyda1"}
+{"time":"2025-04-19T01:21:09.725819153+05:30","level":"INFO","msg":"handler: started","stream_id":"fjlfyda1"}
+{"time":"2025-04-19T01:21:10.090139233+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T01:24:19.32035837+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T01:24:19.321440447+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T01:24:20.320683716+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.099928026,"progress":"623B/623B"},{"desc":"uploading output.log","runtime_seconds":0.099907205,"progress":"1.1KB/1.1KB"}],"total_operations":2}}
+{"time":"2025-04-19T01:24:20.766798739+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T01:24:22.084640379+05:30","level":"INFO","msg":"stream: closing","id":"fjlfyda1"}
+{"time":"2025-04-19T01:24:22.084680429+05:30","level":"INFO","msg":"handler: closed","stream_id":"fjlfyda1"}
+{"time":"2025-04-19T01:24:22.084704428+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fjlfyda1"}
+{"time":"2025-04-19T01:24:22.084731168+05:30","level":"INFO","msg":"sender: closed","stream_id":"fjlfyda1"}
+{"time":"2025-04-19T01:24:22.084838968+05:30","level":"INFO","msg":"stream: closed","id":"fjlfyda1"}

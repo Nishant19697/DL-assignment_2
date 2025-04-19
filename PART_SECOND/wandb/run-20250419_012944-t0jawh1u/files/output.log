@@ -1,0 +1,42 @@
+Memory used before starting :  0.0 0.0
+Epoch 1 peak memory used: 8858.20 MB
+Epoch 1/10 | Train Loss: 2.3146 | Val Loss: 2.3072 | Val Acc: 10.05%
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Traceback (most recent call last):
+  File "all_train.py", line 76, in train_and_eval
+    outputs = model(images)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torchvision/models/vision_transformer.py", line 298, in forward
+    x = self.encoder(x)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torchvision/models/vision_transformer.py", line 157, in forward
+    return self.ln(self.layers(self.dropout(input)))
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torchvision/models/vision_transformer.py", line 113, in forward
+    x, _ = self.self_attention(x, x, x, need_weights=False)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/activation.py", line 1275, in forward
+    attn_output, attn_output_weights = F.multi_head_attention_forward(
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/functional.py", line 5420, in multi_head_attention_forward
+    q, k, v = _in_projection_packed(query, key, value, in_proj_weight, in_proj_bias)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/functional.py", line 4920, in _in_projection_packed
+    proj = linear(q, w, b)
+Exception

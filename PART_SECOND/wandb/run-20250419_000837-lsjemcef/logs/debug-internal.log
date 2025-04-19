@@ -1,0 +1,16 @@
+{"time":"2025-04-19T00:08:37.120764329+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:08:37.120783559+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_000837-lsjemcef/logs/debug-core.log"}
+{"time":"2025-04-19T00:08:37.33720194+05:30","level":"INFO","msg":"created new stream","id":"lsjemcef"}
+{"time":"2025-04-19T00:08:37.337261909+05:30","level":"INFO","msg":"stream: started","id":"lsjemcef"}
+{"time":"2025-04-19T00:08:37.337349908+05:30","level":"INFO","msg":"sender: started","stream_id":"lsjemcef"}
+{"time":"2025-04-19T00:08:37.337370488+05:30","level":"INFO","msg":"handler: started","stream_id":"lsjemcef"}
+{"time":"2025-04-19T00:08:37.337340658+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lsjemcef"}
+{"time":"2025-04-19T00:08:37.674164969+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:08:37.822649897+05:30","level":"INFO","msg":"stream: closing","id":"lsjemcef"}
+{"time":"2025-04-19T00:08:37.822687547+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:08:37.823211891+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:08:40.264748733+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:08:40.563505271+05:30","level":"INFO","msg":"handler: closed","stream_id":"lsjemcef"}
+{"time":"2025-04-19T00:08:40.563560861+05:30","level":"INFO","msg":"sender: closed","stream_id":"lsjemcef"}
+{"time":"2025-04-19T00:08:40.563554861+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lsjemcef"}
+{"time":"2025-04-19T00:08:40.563671089+05:30","level":"INFO","msg":"stream: closed","id":"lsjemcef"}

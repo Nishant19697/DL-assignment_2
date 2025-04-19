@@ -1,0 +1,17 @@
+{"time":"2025-04-19T17:39:39.379137222+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T17:39:39.379155122+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_173939-fbxsdvej/logs/debug-core.log"}
+{"time":"2025-04-19T17:39:39.605722165+05:30","level":"INFO","msg":"created new stream","id":"fbxsdvej"}
+{"time":"2025-04-19T17:39:39.605833414+05:30","level":"INFO","msg":"stream: started","id":"fbxsdvej"}
+{"time":"2025-04-19T17:39:39.605874994+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fbxsdvej"}
+{"time":"2025-04-19T17:39:39.605883904+05:30","level":"INFO","msg":"handler: started","stream_id":"fbxsdvej"}
+{"time":"2025-04-19T17:39:39.605918303+05:30","level":"INFO","msg":"sender: started","stream_id":"fbxsdvej"}
+{"time":"2025-04-19T17:39:39.947620402+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T17:46:28.667854437+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T17:46:28.668509841+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T17:46:29.668317627+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.385760917,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.100283805,"progress":"625B/625B"},{"desc":"uploading output.log","runtime_seconds":0.100264895,"progress":"1.2KB/1.2KB"}],"total_operations":3}}
+{"time":"2025-04-19T17:46:30.114399735+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T17:46:31.503318207+05:30","level":"INFO","msg":"stream: closing","id":"fbxsdvej"}
+{"time":"2025-04-19T17:46:31.503379866+05:30","level":"INFO","msg":"handler: closed","stream_id":"fbxsdvej"}
+{"time":"2025-04-19T17:46:31.503402766+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fbxsdvej"}
+{"time":"2025-04-19T17:46:31.503457885+05:30","level":"INFO","msg":"sender: closed","stream_id":"fbxsdvej"}
+{"time":"2025-04-19T17:46:31.503657794+05:30","level":"INFO","msg":"stream: closed","id":"fbxsdvej"}

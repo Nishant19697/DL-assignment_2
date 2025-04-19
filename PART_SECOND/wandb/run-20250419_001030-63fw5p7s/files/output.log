@@ -1,0 +1,9 @@
+Memory used before starting :  0.0 0.0
+Traceback (most recent call last):
+  File "train.py", line 155, in <module>
+    train_and_eval(args, logging=logging)
+  File "train.py", line 48, in train_and_eval
+    model.encoder.blocks[0].dropout = nn.Dropout(p=0.1)  # Add dropout after first encoder block
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1729, in __getattr__
+    raise AttributeError(f"'{type(self).__name__}' object has no attribute '{name}'")
+AttributeError: 'Encoder' object has no attribute 'blocks'

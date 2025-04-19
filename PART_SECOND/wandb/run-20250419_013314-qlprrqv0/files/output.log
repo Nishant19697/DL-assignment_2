@@ -1,0 +1,16 @@
+Memory used before starting :  0.0 0.0
+Traceback (most recent call last):
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_config.py", line 165, in __getattr__
+    return self.__getitem__(key)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+KeyError: 'data_aug'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "all_train.py", line 22, in train_and_eval
+    if config.data_aug:
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_config.py", line 167, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'data_aug'

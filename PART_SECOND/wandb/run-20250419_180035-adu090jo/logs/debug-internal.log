@@ -1,0 +1,17 @@
+{"time":"2025-04-19T18:00:35.05720114+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T18:00:35.05721729+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_180035-adu090jo/logs/debug-core.log"}
+{"time":"2025-04-19T18:00:35.277303094+05:30","level":"INFO","msg":"created new stream","id":"adu090jo"}
+{"time":"2025-04-19T18:00:35.277352324+05:30","level":"INFO","msg":"stream: started","id":"adu090jo"}
+{"time":"2025-04-19T18:00:35.277383593+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"adu090jo"}
+{"time":"2025-04-19T18:00:35.277450533+05:30","level":"INFO","msg":"sender: started","stream_id":"adu090jo"}
+{"time":"2025-04-19T18:00:35.277475083+05:30","level":"INFO","msg":"handler: started","stream_id":"adu090jo"}
+{"time":"2025-04-19T18:00:35.59374085+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T18:07:27.425141505+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T18:07:27.426308911+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T18:07:28.425579762+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.425398343,"progress":"244B/244B"},{"desc":"uploading output.log","runtime_seconds":0.133953301,"progress":"1.2KB/1.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.13384525,"progress":"624B/624B"}],"total_operations":3}}
+{"time":"2025-04-19T18:07:28.836251131+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T18:07:30.174941834+05:30","level":"INFO","msg":"stream: closing","id":"adu090jo"}
+{"time":"2025-04-19T18:07:30.174965334+05:30","level":"INFO","msg":"handler: closed","stream_id":"adu090jo"}
+{"time":"2025-04-19T18:07:30.174979804+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"adu090jo"}
+{"time":"2025-04-19T18:07:30.174985384+05:30","level":"INFO","msg":"sender: closed","stream_id":"adu090jo"}
+{"time":"2025-04-19T18:07:30.175063335+05:30","level":"INFO","msg":"stream: closed","id":"adu090jo"}

@@ -1,0 +1,11 @@
+{"time":"2025-04-19T17:20:01.361524312+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T17:20:01.361562232+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_172001-kk3euomj/logs/debug-core.log"}
+{"time":"2025-04-19T17:20:01.582553587+05:30","level":"INFO","msg":"created new stream","id":"kk3euomj"}
+{"time":"2025-04-19T17:20:01.582683845+05:30","level":"INFO","msg":"stream: started","id":"kk3euomj"}
+{"time":"2025-04-19T17:20:01.582850573+05:30","level":"INFO","msg":"handler: started","stream_id":"kk3euomj"}
+{"time":"2025-04-19T17:20:01.583065801+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kk3euomj"}
+{"time":"2025-04-19T17:20:01.583075471+05:30","level":"INFO","msg":"sender: started","stream_id":"kk3euomj"}
+{"time":"2025-04-19T17:20:01.972802416+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T17:21:27.875364883+05:30","level":"INFO","msg":"stream: closing","id":"kk3euomj"}
+{"time":"2025-04-19T17:21:27.875424732+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T17:21:27.876651888+05:30","level":"INFO","msg":"Stopped system monitor"}

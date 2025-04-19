@@ -1,0 +1,15 @@
+Memory used before starting :  17.03936 555.74528
+Number of parameters: 86197514
+Memory used :  363.009536 555.74528
+Epoch 1 peak memory used: 2422.25 MB
+Epoch 1/10 | Train Loss: 1.3119 | Val Loss: 0.9036 | Val Acc: 86.05%
+Epoch 2 peak memory used: 2422.25 MB
+Epoch 2/10 | Train Loss: 0.9714 | Val Loss: 0.8539 | Val Acc: 86.70%
+Epoch 3 peak memory used: 2422.25 MB
+Epoch 3/10 | Train Loss: 0.9325 | Val Loss: 0.8387 | Val Acc: 87.05%
+Epoch 4 peak memory used: 2422.25 MB
+Epoch 4/10 | Train Loss: 0.9037 | Val Loss: 0.8295 | Val Acc: 87.15%
+Epoch 5 peak memory used: 2422.25 MB
+Epoch 5/10 | Train Loss: 0.8925 | Val Loss: 0.8151 | Val Acc: 87.90%
+Epoch 6 peak memory used: 2422.25 MB
+Epoch 6/10 | Train Loss: 0.8701 | Val Loss: 0.8121 | Val Acc: 87.85%

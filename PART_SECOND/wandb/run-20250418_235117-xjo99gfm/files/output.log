@@ -1,0 +1,7 @@
+Memory used before starting :  0.0 0.0
+Traceback (most recent call last):
+  File "train.py", line 154, in <module>
+    train_and_eval(args, logging=logging)
+  File "train.py", line 24, in train_and_eval
+    transforms.Normalize(mean, std)
+NameError: name 'mean' is not defined

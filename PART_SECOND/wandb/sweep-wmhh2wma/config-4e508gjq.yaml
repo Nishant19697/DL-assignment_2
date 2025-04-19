@@ -1,0 +1,8 @@
+wandb_version: 1
+
+batch_size:
+  value: 128
+learning_rate:
+  value: 0.000930224919411318
+weight_decay:
+  value: 0.00041778746571300703

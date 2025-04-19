@@ -1,0 +1,17 @@
+{"time":"2025-04-19T01:31:05.989725362+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T01:31:05.989755352+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_013105-nenablph/logs/debug-core.log"}
+{"time":"2025-04-19T01:31:06.204262681+05:30","level":"INFO","msg":"created new stream","id":"nenablph"}
+{"time":"2025-04-19T01:31:06.204319271+05:30","level":"INFO","msg":"stream: started","id":"nenablph"}
+{"time":"2025-04-19T01:31:06.204379101+05:30","level":"INFO","msg":"sender: started","stream_id":"nenablph"}
+{"time":"2025-04-19T01:31:06.204384441+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nenablph"}
+{"time":"2025-04-19T01:31:06.20444858+05:30","level":"INFO","msg":"handler: started","stream_id":"nenablph"}
+{"time":"2025-04-19T01:31:06.557573208+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T01:31:59.724839519+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T01:31:59.726011413+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T01:32:00.725646448+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.078750668,"progress":"709B/709B"},{"desc":"uploading output.log","runtime_seconds":0.078735088,"progress":"325B/325B"}],"total_operations":2}}
+{"time":"2025-04-19T01:32:01.950190961+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T01:32:03.322921012+05:30","level":"INFO","msg":"stream: closing","id":"nenablph"}
+{"time":"2025-04-19T01:32:03.322949281+05:30","level":"INFO","msg":"handler: closed","stream_id":"nenablph"}
+{"time":"2025-04-19T01:32:03.322962361+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nenablph"}
+{"time":"2025-04-19T01:32:03.322971511+05:30","level":"INFO","msg":"sender: closed","stream_id":"nenablph"}
+{"time":"2025-04-19T01:32:03.323027571+05:30","level":"INFO","msg":"stream: closed","id":"nenablph"}

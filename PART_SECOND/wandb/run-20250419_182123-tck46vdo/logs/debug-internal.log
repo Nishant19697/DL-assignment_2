@@ -1,0 +1,8 @@
+{"time":"2025-04-19T18:21:23.580845668+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T18:21:23.580865198+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/part2/wandb/run-20250419_182123-tck46vdo/logs/debug-core.log"}
+{"time":"2025-04-19T18:21:23.793958421+05:30","level":"INFO","msg":"created new stream","id":"tck46vdo"}
+{"time":"2025-04-19T18:21:23.793989611+05:30","level":"INFO","msg":"stream: started","id":"tck46vdo"}
+{"time":"2025-04-19T18:21:23.794026631+05:30","level":"INFO","msg":"handler: started","stream_id":"tck46vdo"}
+{"time":"2025-04-19T18:21:23.794026781+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tck46vdo"}
+{"time":"2025-04-19T18:21:23.794081331+05:30","level":"INFO","msg":"sender: started","stream_id":"tck46vdo"}
+{"time":"2025-04-19T18:21:24.175367982+05:30","level":"INFO","msg":"Starting system monitor"}

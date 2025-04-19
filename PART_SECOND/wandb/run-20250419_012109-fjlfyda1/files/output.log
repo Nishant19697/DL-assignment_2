@@ -1,0 +1,24 @@
+Memory used before starting :  17.03936 555.74528
+Number of parameters: 85806346
+Memory used :  360.920576 555.74528
+Epoch 1 peak memory used: 1380.14 MB
+Epoch 1/10 | Train Loss: 1.4311 | Val Loss: 0.9929 | Val Acc: 83.15%
+Epoch 2 peak memory used: 1380.14 MB
+Epoch 2/10 | Train Loss: 1.0521 | Val Loss: 0.9226 | Val Acc: 84.85%
+Epoch 3 peak memory used: 1380.14 MB
+Epoch 3/10 | Train Loss: 1.0076 | Val Loss: 0.8987 | Val Acc: 85.55%
+Epoch 4 peak memory used: 1380.14 MB
+Epoch 4/10 | Train Loss: 0.9760 | Val Loss: 0.8899 | Val Acc: 86.25%
+Epoch 5 peak memory used: 1380.14 MB
+Epoch 5/10 | Train Loss: 0.9670 | Val Loss: 0.8833 | Val Acc: 86.20%
+Epoch 6 peak memory used: 1380.14 MB
+Epoch 6/10 | Train Loss: 0.9501 | Val Loss: 0.8814 | Val Acc: 86.20%
+Epoch 7 peak memory used: 1380.14 MB
+Epoch 7/10 | Train Loss: 0.9495 | Val Loss: 0.8799 | Val Acc: 86.35%
+Epoch 8 peak memory used: 1380.14 MB
+Epoch 8/10 | Train Loss: 0.9507 | Val Loss: 0.8792 | Val Acc: 86.50%
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Traceback (most recent call last):
+  File "all_train.py", line 76, in train_and_eval
+    for epoch in range(10):
+Exception

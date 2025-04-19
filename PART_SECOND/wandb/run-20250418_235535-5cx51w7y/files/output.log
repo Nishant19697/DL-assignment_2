@@ -1,0 +1,7 @@
+Memory used before starting :  0.0 0.0
+Traceback (most recent call last):
+  File "train.py", line 162, in <module>
+    train_and_eval(args, logging=logging)
+  File "train.py", line 18, in train_and_eval
+    mean, std = weights.meta["mean"], weights.meta["std"]
+KeyError: 'mean'
