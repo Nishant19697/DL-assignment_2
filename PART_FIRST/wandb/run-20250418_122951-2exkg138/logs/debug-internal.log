@@ -1,0 +1,17 @@
+{"time":"2025-04-18T12:29:51.802855176+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T12:29:51.802871556+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_122951-2exkg138/logs/debug-core.log"}
+{"time":"2025-04-18T12:29:52.018614872+05:30","level":"INFO","msg":"created new stream","id":"2exkg138"}
+{"time":"2025-04-18T12:29:52.018675201+05:30","level":"INFO","msg":"stream: started","id":"2exkg138"}
+{"time":"2025-04-18T12:29:52.018679941+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2exkg138"}
+{"time":"2025-04-18T12:29:52.018697881+05:30","level":"INFO","msg":"sender: started","stream_id":"2exkg138"}
+{"time":"2025-04-18T12:29:52.01882581+05:30","level":"INFO","msg":"handler: started","stream_id":"2exkg138"}
+{"time":"2025-04-18T12:29:52.322753744+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T12:32:09.43284665+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T12:32:09.433596034+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T12:32:10.433589479+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.299335558,"progress":"188B/188B"},{"desc":"uploading config.yaml","runtime_seconds":0.105104984,"progress":"695B/695B"},{"desc":"uploading output.log","runtime_seconds":0.105087105,"progress":"15.7KB/15.7KB"}],"total_operations":3}}
+{"time":"2025-04-18T12:32:10.884523036+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T12:32:12.200160499+05:30","level":"INFO","msg":"stream: closing","id":"2exkg138"}
+{"time":"2025-04-18T12:32:12.200201478+05:30","level":"INFO","msg":"handler: closed","stream_id":"2exkg138"}
+{"time":"2025-04-18T12:32:12.200221198+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2exkg138"}
+{"time":"2025-04-18T12:32:12.200231338+05:30","level":"INFO","msg":"sender: closed","stream_id":"2exkg138"}
+{"time":"2025-04-18T12:32:12.200329267+05:30","level":"INFO","msg":"stream: closed","id":"2exkg138"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:55:27.16879073+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:55:27.168817989+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005527-afalsbuw/logs/debug-core.log"}
+{"time":"2025-04-19T00:55:27.386628892+05:30","level":"INFO","msg":"created new stream","id":"afalsbuw"}
+{"time":"2025-04-19T00:55:27.386704621+05:30","level":"INFO","msg":"stream: started","id":"afalsbuw"}
+{"time":"2025-04-19T00:55:27.3868135+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"afalsbuw"}
+{"time":"2025-04-19T00:55:27.386831529+05:30","level":"INFO","msg":"sender: started","stream_id":"afalsbuw"}
+{"time":"2025-04-19T00:55:27.386955558+05:30","level":"INFO","msg":"handler: started","stream_id":"afalsbuw"}
+{"time":"2025-04-19T00:55:27.708702521+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:55:32.534738767+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:55:32.535829971+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:55:33.535595956+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.40447979,"progress":"2.0KB/2.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.404466631,"progress":"1.0KB/1.0KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:55:34.486158932+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:55:35.840561769+05:30","level":"INFO","msg":"stream: closing","id":"afalsbuw"}
+{"time":"2025-04-19T00:55:35.840590709+05:30","level":"INFO","msg":"handler: closed","stream_id":"afalsbuw"}
+{"time":"2025-04-19T00:55:35.840602158+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"afalsbuw"}
+{"time":"2025-04-19T00:55:35.840631108+05:30","level":"INFO","msg":"sender: closed","stream_id":"afalsbuw"}
+{"time":"2025-04-19T00:55:35.840679777+05:30","level":"INFO","msg":"stream: closed","id":"afalsbuw"}

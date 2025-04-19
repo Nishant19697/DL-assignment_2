@@ -1,0 +1,17 @@
+{"time":"2025-04-18T17:33:18.369793307+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:33:18.369819636+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173318-ojsplgim/logs/debug-core.log"}
+{"time":"2025-04-18T17:33:18.596051092+05:30","level":"INFO","msg":"created new stream","id":"ojsplgim"}
+{"time":"2025-04-18T17:33:18.596244087+05:30","level":"INFO","msg":"stream: started","id":"ojsplgim"}
+{"time":"2025-04-18T17:33:18.59654887+05:30","level":"INFO","msg":"sender: started","stream_id":"ojsplgim"}
+{"time":"2025-04-18T17:33:18.59657683+05:30","level":"INFO","msg":"handler: started","stream_id":"ojsplgim"}
+{"time":"2025-04-18T17:33:18.596593179+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ojsplgim"}
+{"time":"2025-04-18T17:33:18.943594782+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:33:19.095969641+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:33:19.096545518+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:33:20.092965801+05:30","level":"INFO","msg":"stream: closing","id":"ojsplgim"}
+{"time":"2025-04-18T17:33:20.286037397+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-04-18T17:33:21.006764411+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:33:21.309808961+05:30","level":"INFO","msg":"handler: closed","stream_id":"ojsplgim"}
+{"time":"2025-04-18T17:33:21.309948788+05:30","level":"INFO","msg":"sender: closed","stream_id":"ojsplgim"}
+{"time":"2025-04-18T17:33:21.309922079+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ojsplgim"}
+{"time":"2025-04-18T17:33:21.310168263+05:30","level":"INFO","msg":"stream: closed","id":"ojsplgim"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:49:49.501982065+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:49:49.501997075+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_204949-g7daxxnz/logs/debug-core.log"}
+{"time":"2025-04-18T20:49:49.716556934+05:30","level":"INFO","msg":"created new stream","id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:49.716600094+05:30","level":"INFO","msg":"stream: started","id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:49.716662003+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:49.716692903+05:30","level":"INFO","msg":"sender: started","stream_id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:49.716754912+05:30","level":"INFO","msg":"handler: started","stream_id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:50.055423682+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:49:50.268548877+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:49:50.269487157+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:49:51.228721346+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.75396741,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.444679006,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.146175997}],"total_operations":3}}
+{"time":"2025-04-18T20:49:52.959422821+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:49:54.46962043+05:30","level":"INFO","msg":"stream: closing","id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:54.469697999+05:30","level":"INFO","msg":"handler: closed","stream_id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:54.469733868+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:54.469842017+05:30","level":"INFO","msg":"sender: closed","stream_id":"g7daxxnz"}
+{"time":"2025-04-18T20:49:54.469976846+05:30","level":"INFO","msg":"stream: closed","id":"g7daxxnz"}

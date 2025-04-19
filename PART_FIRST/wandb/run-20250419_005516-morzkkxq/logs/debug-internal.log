@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:55:16.496033269+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:55:16.496056079+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005516-morzkkxq/logs/debug-core.log"}
+{"time":"2025-04-19T00:55:16.71066291+05:30","level":"INFO","msg":"created new stream","id":"morzkkxq"}
+{"time":"2025-04-19T00:55:16.710739609+05:30","level":"INFO","msg":"stream: started","id":"morzkkxq"}
+{"time":"2025-04-19T00:55:16.710825048+05:30","level":"INFO","msg":"sender: started","stream_id":"morzkkxq"}
+{"time":"2025-04-19T00:55:16.710864227+05:30","level":"INFO","msg":"handler: started","stream_id":"morzkkxq"}
+{"time":"2025-04-19T00:55:16.710925326+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"morzkkxq"}
+{"time":"2025-04-19T00:55:17.309354187+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:55:20.123166504+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:55:20.12410429+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:55:21.123836222+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.312295509,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.3122699,"progress":"1.4KB/1.4KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:55:22.557756296+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:55:23.957510856+05:30","level":"INFO","msg":"stream: closing","id":"morzkkxq"}
+{"time":"2025-04-19T00:55:23.957543305+05:30","level":"INFO","msg":"handler: closed","stream_id":"morzkkxq"}
+{"time":"2025-04-19T00:55:23.957556965+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"morzkkxq"}
+{"time":"2025-04-19T00:55:23.957581555+05:30","level":"INFO","msg":"sender: closed","stream_id":"morzkkxq"}
+{"time":"2025-04-19T00:55:23.957649554+05:30","level":"INFO","msg":"stream: closed","id":"morzkkxq"}

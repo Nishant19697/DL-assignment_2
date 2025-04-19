@@ -1,0 +1,17 @@
+{"time":"2025-04-18T16:20:23.26859079+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T16:20:23.2686092+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_162023-shbftqat/logs/debug-core.log"}
+{"time":"2025-04-18T16:20:23.491375996+05:30","level":"INFO","msg":"created new stream","id":"shbftqat"}
+{"time":"2025-04-18T16:20:23.491546147+05:30","level":"INFO","msg":"stream: started","id":"shbftqat"}
+{"time":"2025-04-18T16:20:23.491536757+05:30","level":"INFO","msg":"handler: started","stream_id":"shbftqat"}
+{"time":"2025-04-18T16:20:23.491562867+05:30","level":"INFO","msg":"sender: started","stream_id":"shbftqat"}
+{"time":"2025-04-18T16:20:23.491588587+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"shbftqat"}
+{"time":"2025-04-18T16:20:23.873063006+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T16:24:30.057969228+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T16:24:30.058904129+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T16:24:31.058687475+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.38742142,"progress":"192B/192B"},{"desc":"uploading config.yaml","runtime_seconds":0.124975155,"progress":"829B/829B"},{"desc":"uploading output.log","runtime_seconds":0.124938995,"progress":"7.8KB/7.8KB"}],"total_operations":3}}
+{"time":"2025-04-18T16:24:31.312565144+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T16:24:32.61822634+05:30","level":"INFO","msg":"stream: closing","id":"shbftqat"}
+{"time":"2025-04-18T16:24:32.61827502+05:30","level":"INFO","msg":"handler: closed","stream_id":"shbftqat"}
+{"time":"2025-04-18T16:24:32.61829717+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"shbftqat"}
+{"time":"2025-04-18T16:24:32.61836954+05:30","level":"INFO","msg":"sender: closed","stream_id":"shbftqat"}
+{"time":"2025-04-18T16:24:32.61854848+05:30","level":"INFO","msg":"stream: closed","id":"shbftqat"}

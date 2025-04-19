@@ -1,0 +1,17 @@
+{"time":"2025-04-18T18:36:34.776760627+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T18:36:34.776776387+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_183634-r4qsexrt/logs/debug-core.log"}
+{"time":"2025-04-18T18:36:34.988397996+05:30","level":"INFO","msg":"created new stream","id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:34.988450706+05:30","level":"INFO","msg":"stream: started","id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:34.988484496+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:34.988510246+05:30","level":"INFO","msg":"handler: started","stream_id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:34.988517866+05:30","level":"INFO","msg":"sender: started","stream_id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:35.301808781+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T18:36:35.447618551+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T18:36:35.44808585+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T18:36:35.943985346+05:30","level":"INFO","msg":"stream: closing","id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:36.358945035+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-04-18T18:36:37.323036471+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T18:36:37.635274678+05:30","level":"INFO","msg":"handler: closed","stream_id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:37.635321008+05:30","level":"INFO","msg":"sender: closed","stream_id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:37.635296588+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"r4qsexrt"}
+{"time":"2025-04-18T18:36:37.635375808+05:30","level":"INFO","msg":"stream: closed","id":"r4qsexrt"}

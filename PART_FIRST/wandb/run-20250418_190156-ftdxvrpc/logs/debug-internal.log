@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:01:56.327609817+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:01:56.327638537+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190156-ftdxvrpc/logs/debug-core.log"}
+{"time":"2025-04-18T19:01:56.544582314+05:30","level":"INFO","msg":"created new stream","id":"ftdxvrpc"}
+{"time":"2025-04-18T19:01:56.544656433+05:30","level":"INFO","msg":"stream: started","id":"ftdxvrpc"}
+{"time":"2025-04-18T19:01:56.544667103+05:30","level":"INFO","msg":"sender: started","stream_id":"ftdxvrpc"}
+{"time":"2025-04-18T19:01:56.544665023+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ftdxvrpc"}
+{"time":"2025-04-18T19:01:56.544771282+05:30","level":"INFO","msg":"handler: started","stream_id":"ftdxvrpc"}
+{"time":"2025-04-18T19:01:56.874940628+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:01:57.212387987+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:01:57.212707104+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:01:58.173416949+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.535738758,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.159590209}],"total_operations":2}}
+{"time":"2025-04-18T19:01:59.126509374+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:02:00.436406486+05:30","level":"INFO","msg":"stream: closing","id":"ftdxvrpc"}
+{"time":"2025-04-18T19:02:00.436435516+05:30","level":"INFO","msg":"handler: closed","stream_id":"ftdxvrpc"}
+{"time":"2025-04-18T19:02:00.436448456+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ftdxvrpc"}
+{"time":"2025-04-18T19:02:00.436466886+05:30","level":"INFO","msg":"sender: closed","stream_id":"ftdxvrpc"}
+{"time":"2025-04-18T19:02:00.436577165+05:30","level":"INFO","msg":"stream: closed","id":"ftdxvrpc"}

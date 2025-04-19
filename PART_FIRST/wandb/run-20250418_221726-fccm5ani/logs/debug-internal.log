@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:17:26.146099106+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:17:26.146128816+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221726-fccm5ani/logs/debug-core.log"}
+{"time":"2025-04-18T22:17:26.366392525+05:30","level":"INFO","msg":"created new stream","id":"fccm5ani"}
+{"time":"2025-04-18T22:17:26.366506293+05:30","level":"INFO","msg":"stream: started","id":"fccm5ani"}
+{"time":"2025-04-18T22:17:26.366575282+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fccm5ani"}
+{"time":"2025-04-18T22:17:26.366626461+05:30","level":"INFO","msg":"handler: started","stream_id":"fccm5ani"}
+{"time":"2025-04-18T22:17:26.36665707+05:30","level":"INFO","msg":"sender: started","stream_id":"fccm5ani"}
+{"time":"2025-04-18T22:17:26.716636266+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:17:26.950499067+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:17:26.951149337+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:17:27.910756251+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.45740746,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.223331391}],"total_operations":2}}
+{"time":"2025-04-18T22:17:28.846916423+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:17:30.146575472+05:30","level":"INFO","msg":"stream: closing","id":"fccm5ani"}
+{"time":"2025-04-18T22:17:30.146644851+05:30","level":"INFO","msg":"handler: closed","stream_id":"fccm5ani"}
+{"time":"2025-04-18T22:17:30.14667437+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fccm5ani"}
+{"time":"2025-04-18T22:17:30.146788159+05:30","level":"INFO","msg":"sender: closed","stream_id":"fccm5ani"}
+{"time":"2025-04-18T22:17:30.146892567+05:30","level":"INFO","msg":"stream: closed","id":"fccm5ani"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:03:35.032967373+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:03:35.032995672+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210335-zbngefjy/logs/debug-core.log"}
+{"time":"2025-04-18T21:03:35.251981672+05:30","level":"INFO","msg":"created new stream","id":"zbngefjy"}
+{"time":"2025-04-18T21:03:35.252036632+05:30","level":"INFO","msg":"stream: started","id":"zbngefjy"}
+{"time":"2025-04-18T21:03:35.252094311+05:30","level":"INFO","msg":"sender: started","stream_id":"zbngefjy"}
+{"time":"2025-04-18T21:03:35.252102861+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zbngefjy"}
+{"time":"2025-04-18T21:03:35.25222395+05:30","level":"INFO","msg":"handler: started","stream_id":"zbngefjy"}
+{"time":"2025-04-18T21:03:35.597265409+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:03:35.87145091+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:03:35.871947055+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:03:36.832485546+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.058783211}],"total_operations":1}}
+{"time":"2025-04-18T21:03:37.922103172+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:03:39.280785664+05:30","level":"INFO","msg":"stream: closing","id":"zbngefjy"}
+{"time":"2025-04-18T21:03:39.280808384+05:30","level":"INFO","msg":"handler: closed","stream_id":"zbngefjy"}
+{"time":"2025-04-18T21:03:39.280822764+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zbngefjy"}
+{"time":"2025-04-18T21:03:39.280843884+05:30","level":"INFO","msg":"sender: closed","stream_id":"zbngefjy"}
+{"time":"2025-04-18T21:03:39.280900413+05:30","level":"INFO","msg":"stream: closed","id":"zbngefjy"}

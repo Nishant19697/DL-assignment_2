@@ -1,0 +1,17 @@
+{"time":"2025-04-18T18:58:21.551327573+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T18:58:21.551354303+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_185821-x3ke1vrz/logs/debug-core.log"}
+{"time":"2025-04-18T18:58:21.769037411+05:30","level":"INFO","msg":"created new stream","id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:21.76908421+05:30","level":"INFO","msg":"stream: started","id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:21.7691197+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:21.76912017+05:30","level":"INFO","msg":"sender: started","stream_id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:21.769185299+05:30","level":"INFO","msg":"handler: started","stream_id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:22.324493066+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T18:58:27.251179389+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T18:58:27.251973132+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T18:58:28.251827454+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.68471769,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.356538296,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.356509147,"progress":"1.7KB/1.7KB"}],"total_operations":3}}
+{"time":"2025-04-18T18:58:28.393680347+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T18:58:29.732113645+05:30","level":"INFO","msg":"stream: closing","id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:29.732149675+05:30","level":"INFO","msg":"handler: closed","stream_id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:29.732160875+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:29.732177274+05:30","level":"INFO","msg":"sender: closed","stream_id":"x3ke1vrz"}
+{"time":"2025-04-18T18:58:29.732220174+05:30","level":"INFO","msg":"stream: closed","id":"x3ke1vrz"}

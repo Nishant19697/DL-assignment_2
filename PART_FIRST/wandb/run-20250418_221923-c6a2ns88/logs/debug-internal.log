@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:19:23.678441541+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:19:23.67847384+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221923-c6a2ns88/logs/debug-core.log"}
+{"time":"2025-04-18T22:19:23.896874077+05:30","level":"INFO","msg":"created new stream","id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:23.896938096+05:30","level":"INFO","msg":"stream: started","id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:23.896980265+05:30","level":"INFO","msg":"sender: started","stream_id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:23.896990615+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:23.897001595+05:30","level":"INFO","msg":"handler: started","stream_id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:24.266782193+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:19:24.55252141+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:19:24.553440156+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:19:25.512892668+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.843918272,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.502035619,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.166493126}],"total_operations":3}}
+{"time":"2025-04-18T22:19:27.300662852+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:19:28.643999494+05:30","level":"INFO","msg":"stream: closing","id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:28.644035884+05:30","level":"INFO","msg":"handler: closed","stream_id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:28.644049234+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:28.644056063+05:30","level":"INFO","msg":"sender: closed","stream_id":"c6a2ns88"}
+{"time":"2025-04-18T22:19:28.644134342+05:30","level":"INFO","msg":"stream: closed","id":"c6a2ns88"}

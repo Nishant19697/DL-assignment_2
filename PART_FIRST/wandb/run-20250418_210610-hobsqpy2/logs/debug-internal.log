@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:06:10.644443909+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:06:10.644482279+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210610-hobsqpy2/logs/debug-core.log"}
+{"time":"2025-04-18T21:06:10.861405426+05:30","level":"INFO","msg":"created new stream","id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:10.861470636+05:30","level":"INFO","msg":"stream: started","id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:10.861513526+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:10.861520175+05:30","level":"INFO","msg":"sender: started","stream_id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:10.861551015+05:30","level":"INFO","msg":"handler: started","stream_id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:11.208446966+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:06:11.500849873+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:06:11.502361571+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:06:12.461273768+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.517481856,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.232315458}],"total_operations":2}}
+{"time":"2025-04-18T21:06:13.371104167+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:06:14.696655704+05:30","level":"INFO","msg":"stream: closing","id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:14.696678343+05:30","level":"INFO","msg":"handler: closed","stream_id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:14.696695273+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:14.696771823+05:30","level":"INFO","msg":"sender: closed","stream_id":"hobsqpy2"}
+{"time":"2025-04-18T21:06:14.696842762+05:30","level":"INFO","msg":"stream: closed","id":"hobsqpy2"}

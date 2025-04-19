@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:57:24.872964392+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:57:24.872995872+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_205724-dybvli2i/logs/debug-core.log"}
+{"time":"2025-04-18T20:57:25.087805686+05:30","level":"INFO","msg":"created new stream","id":"dybvli2i"}
+{"time":"2025-04-18T20:57:25.087837485+05:30","level":"INFO","msg":"stream: started","id":"dybvli2i"}
+{"time":"2025-04-18T20:57:25.087889665+05:30","level":"INFO","msg":"handler: started","stream_id":"dybvli2i"}
+{"time":"2025-04-18T20:57:25.087919195+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dybvli2i"}
+{"time":"2025-04-18T20:57:25.087949284+05:30","level":"INFO","msg":"sender: started","stream_id":"dybvli2i"}
+{"time":"2025-04-18T20:57:25.442764981+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:57:25.729470354+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:57:25.729979919+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:57:26.690281592+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.817233119,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.444319166,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.126754652}],"total_operations":3}}
+{"time":"2025-04-18T20:57:27.761427683+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:57:29.089153545+05:30","level":"INFO","msg":"stream: closing","id":"dybvli2i"}
+{"time":"2025-04-18T20:57:29.089191225+05:30","level":"INFO","msg":"handler: closed","stream_id":"dybvli2i"}
+{"time":"2025-04-18T20:57:29.089206715+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dybvli2i"}
+{"time":"2025-04-18T20:57:29.089264784+05:30","level":"INFO","msg":"sender: closed","stream_id":"dybvli2i"}
+{"time":"2025-04-18T20:57:29.089347943+05:30","level":"INFO","msg":"stream: closed","id":"dybvli2i"}

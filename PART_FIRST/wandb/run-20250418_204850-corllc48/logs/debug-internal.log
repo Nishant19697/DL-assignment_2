@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:48:50.309768896+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:48:50.309791536+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_204850-corllc48/logs/debug-core.log"}
+{"time":"2025-04-18T20:48:50.522275528+05:30","level":"INFO","msg":"created new stream","id":"corllc48"}
+{"time":"2025-04-18T20:48:50.522342427+05:30","level":"INFO","msg":"stream: started","id":"corllc48"}
+{"time":"2025-04-18T20:48:50.522352897+05:30","level":"INFO","msg":"handler: started","stream_id":"corllc48"}
+{"time":"2025-04-18T20:48:50.522358287+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"corllc48"}
+{"time":"2025-04-18T20:48:50.522418496+05:30","level":"INFO","msg":"sender: started","stream_id":"corllc48"}
+{"time":"2025-04-18T20:48:50.865104811+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:48:53.692780729+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:48:53.693744068+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:48:54.693527235+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.393695406,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.393676106,"progress":"1.4KB/1.4KB"}],"total_operations":2}}
+{"time":"2025-04-18T20:48:54.840002384+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:48:56.177841605+05:30","level":"INFO","msg":"stream: closing","id":"corllc48"}
+{"time":"2025-04-18T20:48:56.177877814+05:30","level":"INFO","msg":"handler: closed","stream_id":"corllc48"}
+{"time":"2025-04-18T20:48:56.177890934+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"corllc48"}
+{"time":"2025-04-18T20:48:56.177927764+05:30","level":"INFO","msg":"sender: closed","stream_id":"corllc48"}
+{"time":"2025-04-18T20:48:56.177984293+05:30","level":"INFO","msg":"stream: closed","id":"corllc48"}

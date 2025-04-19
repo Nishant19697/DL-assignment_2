@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:10:43.65873203+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:10:43.658747889+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_211043-sxi74tvc/logs/debug-core.log"}
+{"time":"2025-04-18T21:10:43.870583594+05:30","level":"INFO","msg":"created new stream","id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:43.870631363+05:30","level":"INFO","msg":"stream: started","id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:43.870695953+05:30","level":"INFO","msg":"sender: started","stream_id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:43.870705073+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:43.870737042+05:30","level":"INFO","msg":"handler: started","stream_id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:44.209416797+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:10:44.512474954+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:10:44.513357916+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:10:45.472596566+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.502611182,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.176028968}],"total_operations":2}}
+{"time":"2025-04-18T21:10:46.36195077+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:10:47.688180054+05:30","level":"INFO","msg":"stream: closing","id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:47.688225883+05:30","level":"INFO","msg":"handler: closed","stream_id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:47.688254253+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:47.688330583+05:30","level":"INFO","msg":"sender: closed","stream_id":"sxi74tvc"}
+{"time":"2025-04-18T21:10:47.688479021+05:30","level":"INFO","msg":"stream: closed","id":"sxi74tvc"}

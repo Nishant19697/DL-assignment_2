@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:29:24.904009209+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:29:24.9040447+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_222924-pg7nptzg/logs/debug-core.log"}
+{"time":"2025-04-18T22:29:25.122878096+05:30","level":"INFO","msg":"created new stream","id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:25.122959047+05:30","level":"INFO","msg":"stream: started","id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:25.122955817+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:25.122981237+05:30","level":"INFO","msg":"sender: started","stream_id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:25.123017707+05:30","level":"INFO","msg":"handler: started","stream_id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:25.479568858+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:29:25.789473604+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:29:25.790359044+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:29:26.750579312+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.52475207},{"desc":"updating run config","runtime_seconds":0.245835895}],"total_operations":2}}
+{"time":"2025-04-18T22:29:27.786505485+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:29:29.10695712+05:30","level":"INFO","msg":"stream: closing","id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:29.10698417+05:30","level":"INFO","msg":"handler: closed","stream_id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:29.10699639+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:29.107044531+05:30","level":"INFO","msg":"sender: closed","stream_id":"pg7nptzg"}
+{"time":"2025-04-18T22:29:29.107101531+05:30","level":"INFO","msg":"stream: closed","id":"pg7nptzg"}

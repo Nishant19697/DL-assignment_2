@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:00:26.882287555+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:00:26.882329544+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_000026-ene2vg1m/logs/debug-core.log"}
+{"time":"2025-04-19T00:00:27.101739208+05:30","level":"INFO","msg":"created new stream","id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:27.101877636+05:30","level":"INFO","msg":"stream: started","id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:27.101952485+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:27.101962755+05:30","level":"INFO","msg":"handler: started","stream_id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:27.102043014+05:30","level":"INFO","msg":"sender: started","stream_id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:27.495453857+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:00:30.266863357+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:00:30.267486479+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:00:31.26768294+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.398109428,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.398089189,"progress":"1.9KB/1.9KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:00:32.167812743+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:00:33.51528448+05:30","level":"INFO","msg":"stream: closing","id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:33.515372058+05:30","level":"INFO","msg":"handler: closed","stream_id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:33.515400978+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:33.515414658+05:30","level":"INFO","msg":"sender: closed","stream_id":"ene2vg1m"}
+{"time":"2025-04-19T00:00:33.515517087+05:30","level":"INFO","msg":"stream: closed","id":"ene2vg1m"}

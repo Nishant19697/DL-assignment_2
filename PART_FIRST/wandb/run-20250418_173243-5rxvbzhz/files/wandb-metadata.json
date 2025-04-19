@@ -1,0 +1,12 @@
+{
+  "os":  "Linux-6.8.0-50-generic-x86_64-with-glibc2.17",
+  "python":  "CPython 3.8.20",
+  "startedAt":  "2025-04-18T12:02:43.796715Z",
+  "program":  "sweep.py",
+  "codePath":  "sweep.py",
+  "email":  "ee22s084@smail.iitm.ac.in",
+  "root":  "/speech/shoutrik/torch_exp/my_own",
+  "host":  "gpu18",
+  "executable":  "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/bin/python",
+  "codePathLocal":  "sweep.py"
+}

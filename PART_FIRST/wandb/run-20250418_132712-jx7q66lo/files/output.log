@@ -1,0 +1,77 @@
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 32, kernel_size=(7, 7), stride=(1, 1), padding=(3, 3))
+    (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act1): ReLU()
+    (drop1): Dropout(p=0.25, inplace=False)
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(32, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act2): ReLU()
+    (drop2): Dropout(p=0.25, inplace=False)
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act3): ReLU()
+    (drop3): Dropout(p=0.25, inplace=False)
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act4): ReLU()
+    (drop4): Dropout(p=0.25, inplace=False)
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (bn5): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act5): ReLU()
+    (drop5): Dropout(p=0.25, inplace=False)
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=25088, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=512, out_features=10, bias=True)
+  )
+)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.07it/s]
+Epoch 1/20 | Train Loss: 2.0957 | Val Loss: 2.4753 | Val Acc: 14.90%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.05it/s]
+Epoch 2/20 | Train Loss: 1.8982 | Val Loss: 2.6536 | Val Acc: 12.15%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.07it/s]
+Epoch 3/20 | Train Loss: 1.8096 | Val Loss: 2.8698 | Val Acc: 11.35%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.11it/s]
+Epoch 4/20 | Train Loss: 1.7343 | Val Loss: 3.0528 | Val Acc: 11.85%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.12it/s]
+Epoch 5/20 | Train Loss: 1.6942 | Val Loss: 2.8723 | Val Acc: 14.20%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.17it/s]
+Epoch 6/20 | Train Loss: 1.6288 | Val Loss: 2.7390 | Val Acc: 13.20%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.08it/s]
+Epoch 7/20 | Train Loss: 1.5871 | Val Loss: 2.9637 | Val Acc: 11.10%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.01it/s]
+Epoch 8/20 | Train Loss: 1.5296 | Val Loss: 2.8853 | Val Acc: 12.70%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.02it/s]
+Epoch 9/20 | Train Loss: 1.4691 | Val Loss: 2.8646 | Val Acc: 14.15%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.07it/s]
+Epoch 10/20 | Train Loss: 1.4311 | Val Loss: 2.7524 | Val Acc: 15.05%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.13it/s]
+Epoch 11/20 | Train Loss: 1.3945 | Val Loss: 2.6351 | Val Acc: 16.10%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.12it/s]
+Epoch 12/20 | Train Loss: 1.3459 | Val Loss: 2.8146 | Val Acc: 15.10%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.13it/s]
+Epoch 13/20 | Train Loss: 1.3195 | Val Loss: 2.7840 | Val Acc: 15.35%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.03it/s]
+Epoch 14/20 | Train Loss: 1.2714 | Val Loss: 2.6971 | Val Acc: 15.85%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.10it/s]
+Epoch 15/20 | Train Loss: 1.2169 | Val Loss: 2.7647 | Val Acc: 15.60%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.03it/s]
+Epoch 16/20 | Train Loss: 1.1825 | Val Loss: 2.7079 | Val Acc: 16.25%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.13it/s]
+Epoch 17/20 | Train Loss: 1.1310 | Val Loss: 2.7999 | Val Acc: 15.65%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.00it/s]
+Epoch 18/20 | Train Loss: 1.1139 | Val Loss: 2.7279 | Val Acc: 16.45%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.05it/s]
+Epoch 19/20 | Train Loss: 1.0514 | Val Loss: 2.6507 | Val Acc: 17.10%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  2.99it/s]
+Epoch 20/20 | Train Loss: 1.0315 | Val Loss: 2.7531 | Val Acc: 17.05%
+Test Loss: 2.7469 | Test Acc: 16.80%

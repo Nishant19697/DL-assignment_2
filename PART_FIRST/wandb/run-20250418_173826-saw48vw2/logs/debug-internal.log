@@ -1,0 +1,17 @@
+{"time":"2025-04-18T17:38:26.633728976+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:38:26.633755336+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173826-saw48vw2/logs/debug-core.log"}
+{"time":"2025-04-18T17:38:26.855915831+05:30","level":"INFO","msg":"created new stream","id":"saw48vw2"}
+{"time":"2025-04-18T17:38:26.856082448+05:30","level":"INFO","msg":"stream: started","id":"saw48vw2"}
+{"time":"2025-04-18T17:38:26.856112487+05:30","level":"INFO","msg":"handler: started","stream_id":"saw48vw2"}
+{"time":"2025-04-18T17:38:26.856112227+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"saw48vw2"}
+{"time":"2025-04-18T17:38:26.856247315+05:30","level":"INFO","msg":"sender: started","stream_id":"saw48vw2"}
+{"time":"2025-04-18T17:38:27.210959573+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:43:15.741861473+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:43:15.74315136+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:43:16.742452641+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.393558466,"progress":"243B/243B"},{"desc":"uploading config.yaml","runtime_seconds":0.068855441,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.068838322,"progress":"9.5KB/9.5KB"}],"total_operations":3}}
+{"time":"2025-04-18T17:43:17.12072581+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:43:18.446672823+05:30","level":"INFO","msg":"stream: closing","id":"saw48vw2"}
+{"time":"2025-04-18T17:43:18.446735282+05:30","level":"INFO","msg":"handler: closed","stream_id":"saw48vw2"}
+{"time":"2025-04-18T17:43:18.446774851+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"saw48vw2"}
+{"time":"2025-04-18T17:43:18.44681386+05:30","level":"INFO","msg":"sender: closed","stream_id":"saw48vw2"}
+{"time":"2025-04-18T17:43:18.446946398+05:30","level":"INFO","msg":"stream: closed","id":"saw48vw2"}

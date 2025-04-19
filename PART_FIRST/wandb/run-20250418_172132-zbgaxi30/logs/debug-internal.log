@@ -1,0 +1,18 @@
+{"time":"2025-04-18T17:21:32.809569607+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:21:32.809592576+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_172132-zbgaxi30/logs/debug-core.log"}
+{"time":"2025-04-18T17:21:33.029049428+05:30","level":"INFO","msg":"created new stream","id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:33.029130857+05:30","level":"INFO","msg":"stream: started","id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:33.029157077+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:33.029171107+05:30","level":"INFO","msg":"handler: started","stream_id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:33.029328486+05:30","level":"INFO","msg":"sender: started","stream_id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:33.378661206+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:21:33.53660215+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:21:33.537896909+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:21:34.500329632+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.381328973,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.020756417}],"total_operations":2}}
+{"time":"2025-04-18T17:21:35.423523932+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:21:36.731339258+05:30","level":"INFO","msg":"stream: closing","id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:36.731464457+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-04-18T17:21:36.731570036+05:30","level":"INFO","msg":"handler: closed","stream_id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:36.731594055+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:36.731635595+05:30","level":"INFO","msg":"sender: closed","stream_id":"zbgaxi30"}
+{"time":"2025-04-18T17:21:36.731695045+05:30","level":"INFO","msg":"stream: closed","id":"zbgaxi30"}

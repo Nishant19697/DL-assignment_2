@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:05:04.517445163+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:05:04.517471503+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190504-ow8ywk48/logs/debug-core.log"}
+{"time":"2025-04-18T19:05:04.737706757+05:30","level":"INFO","msg":"created new stream","id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:04.737798768+05:30","level":"INFO","msg":"stream: started","id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:04.737803428+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:04.737822128+05:30","level":"INFO","msg":"handler: started","stream_id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:04.737835088+05:30","level":"INFO","msg":"sender: started","stream_id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:05.044912721+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:05:05.455459524+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:05:05.456078646+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:05:06.416294525+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.940093068,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.638707101,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.203722416}],"total_operations":3}}
+{"time":"2025-04-18T19:05:08.116808538+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:05:09.455827587+05:30","level":"INFO","msg":"stream: closing","id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:09.455853547+05:30","level":"INFO","msg":"handler: closed","stream_id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:09.455862597+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:09.455898007+05:30","level":"INFO","msg":"sender: closed","stream_id":"ow8ywk48"}
+{"time":"2025-04-18T19:05:09.455935547+05:30","level":"INFO","msg":"stream: closed","id":"ow8ywk48"}

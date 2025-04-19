@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:50:21.733859008+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:50:21.733888758+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_205021-ziomh6iq/logs/debug-core.log"}
+{"time":"2025-04-18T20:50:21.947946207+05:30","level":"INFO","msg":"created new stream","id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:21.948002876+05:30","level":"INFO","msg":"stream: started","id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:21.948038266+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:21.948038246+05:30","level":"INFO","msg":"sender: started","stream_id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:21.948119875+05:30","level":"INFO","msg":"handler: started","stream_id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:22.321721545+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:50:22.608521304+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:50:22.609356755+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:50:23.569236204+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.855650579,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.479773982,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.236847623}],"total_operations":3}}
+{"time":"2025-04-18T20:50:25.223169532+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:50:26.570928241+05:30","level":"INFO","msg":"stream: closing","id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:26.570954421+05:30","level":"INFO","msg":"handler: closed","stream_id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:26.570966161+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:26.57098054+05:30","level":"INFO","msg":"sender: closed","stream_id":"ziomh6iq"}
+{"time":"2025-04-18T20:50:26.57102814+05:30","level":"INFO","msg":"stream: closed","id":"ziomh6iq"}

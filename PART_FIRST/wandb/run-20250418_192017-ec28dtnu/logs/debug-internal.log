@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:20:17.512708198+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:20:17.512726168+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_192017-ec28dtnu/logs/debug-core.log"}
+{"time":"2025-04-18T19:20:17.725040715+05:30","level":"INFO","msg":"created new stream","id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:17.725093575+05:30","level":"INFO","msg":"stream: started","id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:17.725120755+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:17.725131985+05:30","level":"INFO","msg":"sender: started","stream_id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:17.725147525+05:30","level":"INFO","msg":"handler: started","stream_id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:18.055013022+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:20:18.25239376+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:20:18.252816488+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:20:19.253144508+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.217219026},{"desc":"updating run config","runtime_seconds":0.217059237},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.215149449,"progress":"2.4KB/2.4KB"}],"total_operations":3}}
+{"time":"2025-04-18T19:20:20.149908491+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:20:21.473130369+05:30","level":"INFO","msg":"stream: closing","id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:21.473161309+05:30","level":"INFO","msg":"handler: closed","stream_id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:21.473175868+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:21.473187998+05:30","level":"INFO","msg":"sender: closed","stream_id":"ec28dtnu"}
+{"time":"2025-04-18T19:20:21.473277988+05:30","level":"INFO","msg":"stream: closed","id":"ec28dtnu"}

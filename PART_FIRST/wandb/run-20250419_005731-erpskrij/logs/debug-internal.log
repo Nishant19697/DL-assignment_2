@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:57:31.761923656+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:57:31.761953715+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005731-erpskrij/logs/debug-core.log"}
+{"time":"2025-04-19T00:57:31.980751212+05:30","level":"INFO","msg":"created new stream","id":"erpskrij"}
+{"time":"2025-04-19T00:57:31.98085663+05:30","level":"INFO","msg":"stream: started","id":"erpskrij"}
+{"time":"2025-04-19T00:57:31.980941009+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"erpskrij"}
+{"time":"2025-04-19T00:57:31.980943999+05:30","level":"INFO","msg":"sender: started","stream_id":"erpskrij"}
+{"time":"2025-04-19T00:57:31.981169036+05:30","level":"INFO","msg":"handler: started","stream_id":"erpskrij"}
+{"time":"2025-04-19T00:57:32.586174256+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:57:32.843470544+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:57:32.844045076+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:57:33.804038029+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.48719566,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.128948056}],"total_operations":2}}
+{"time":"2025-04-19T00:57:34.843949601+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:57:36.504505345+05:30","level":"INFO","msg":"stream: closing","id":"erpskrij"}
+{"time":"2025-04-19T00:57:36.504529724+05:30","level":"INFO","msg":"handler: closed","stream_id":"erpskrij"}
+{"time":"2025-04-19T00:57:36.504539504+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"erpskrij"}
+{"time":"2025-04-19T00:57:36.504560874+05:30","level":"INFO","msg":"sender: closed","stream_id":"erpskrij"}
+{"time":"2025-04-19T00:57:36.504590554+05:30","level":"INFO","msg":"stream: closed","id":"erpskrij"}

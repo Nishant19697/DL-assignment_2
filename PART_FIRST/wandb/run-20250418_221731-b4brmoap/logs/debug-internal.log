@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:17:31.612140969+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:17:31.612171289+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221731-b4brmoap/logs/debug-core.log"}
+{"time":"2025-04-18T22:17:31.8313276+05:30","level":"INFO","msg":"created new stream","id":"b4brmoap"}
+{"time":"2025-04-18T22:17:31.831420378+05:30","level":"INFO","msg":"stream: started","id":"b4brmoap"}
+{"time":"2025-04-18T22:17:31.831505407+05:30","level":"INFO","msg":"handler: started","stream_id":"b4brmoap"}
+{"time":"2025-04-18T22:17:31.831565276+05:30","level":"INFO","msg":"sender: started","stream_id":"b4brmoap"}
+{"time":"2025-04-18T22:17:31.831531146+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"b4brmoap"}
+{"time":"2025-04-18T22:17:32.170521695+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:17:32.422487393+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:17:32.423030914+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:17:33.382972012+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.770258307,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.216892029,"progress":"2.4KB/2.4KB"},{"desc":"uploading data","runtime_seconds":0.216509515},{"desc":"updating run config","runtime_seconds":0.084249216}],"total_operations":4}}
+{"time":"2025-04-18T22:17:34.45158716+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:17:35.860375806+05:30","level":"INFO","msg":"stream: closing","id":"b4brmoap"}
+{"time":"2025-04-18T22:17:35.860418346+05:30","level":"INFO","msg":"handler: closed","stream_id":"b4brmoap"}
+{"time":"2025-04-18T22:17:35.860439025+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"b4brmoap"}
+{"time":"2025-04-18T22:17:35.860450685+05:30","level":"INFO","msg":"sender: closed","stream_id":"b4brmoap"}
+{"time":"2025-04-18T22:17:35.860552224+05:30","level":"INFO","msg":"stream: closed","id":"b4brmoap"}

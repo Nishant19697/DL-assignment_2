@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:14:17.347038875+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:14:17.347054775+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221417-5tct61fx/logs/debug-core.log"}
+{"time":"2025-04-18T22:14:17.565247016+05:30","level":"INFO","msg":"created new stream","id":"5tct61fx"}
+{"time":"2025-04-18T22:14:17.565345694+05:30","level":"INFO","msg":"stream: started","id":"5tct61fx"}
+{"time":"2025-04-18T22:14:17.565419973+05:30","level":"INFO","msg":"handler: started","stream_id":"5tct61fx"}
+{"time":"2025-04-18T22:14:17.565440193+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5tct61fx"}
+{"time":"2025-04-18T22:14:17.56558356+05:30","level":"INFO","msg":"sender: started","stream_id":"5tct61fx"}
+{"time":"2025-04-18T22:14:17.949047925+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:14:18.214422321+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:14:18.215189798+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:14:19.175247937+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.476522479,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.178812777}],"total_operations":2}}
+{"time":"2025-04-18T22:14:20.156407305+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:14:21.661357968+05:30","level":"INFO","msg":"stream: closing","id":"5tct61fx"}
+{"time":"2025-04-18T22:14:21.661393668+05:30","level":"INFO","msg":"handler: closed","stream_id":"5tct61fx"}
+{"time":"2025-04-18T22:14:21.661412357+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5tct61fx"}
+{"time":"2025-04-18T22:14:21.661436767+05:30","level":"INFO","msg":"sender: closed","stream_id":"5tct61fx"}
+{"time":"2025-04-18T22:14:21.661505476+05:30","level":"INFO","msg":"stream: closed","id":"5tct61fx"}

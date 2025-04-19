@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:10:22.174694793+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:10:22.174715363+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_191022-l8tymu93/logs/debug-core.log"}
+{"time":"2025-04-18T19:10:22.386602255+05:30","level":"INFO","msg":"created new stream","id":"l8tymu93"}
+{"time":"2025-04-18T19:10:22.386671605+05:30","level":"INFO","msg":"stream: started","id":"l8tymu93"}
+{"time":"2025-04-18T19:10:22.386682885+05:30","level":"INFO","msg":"handler: started","stream_id":"l8tymu93"}
+{"time":"2025-04-18T19:10:22.386669005+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"l8tymu93"}
+{"time":"2025-04-18T19:10:22.386802555+05:30","level":"INFO","msg":"sender: started","stream_id":"l8tymu93"}
+{"time":"2025-04-18T19:10:22.730961774+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:10:23.073412256+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:10:23.073922095+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:10:24.034428664+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.56376752,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.242882502}],"total_operations":2}}
+{"time":"2025-04-18T19:10:24.749027368+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:10:26.086993841+05:30","level":"INFO","msg":"stream: closing","id":"l8tymu93"}
+{"time":"2025-04-18T19:10:26.087025371+05:30","level":"INFO","msg":"handler: closed","stream_id":"l8tymu93"}
+{"time":"2025-04-18T19:10:26.087040291+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"l8tymu93"}
+{"time":"2025-04-18T19:10:26.087088251+05:30","level":"INFO","msg":"sender: closed","stream_id":"l8tymu93"}
+{"time":"2025-04-18T19:10:26.087144791+05:30","level":"INFO","msg":"stream: closed","id":"l8tymu93"}

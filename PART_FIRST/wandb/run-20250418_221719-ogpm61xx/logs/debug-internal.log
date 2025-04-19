@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:17:19.574477458+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:17:19.574506437+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221719-ogpm61xx/logs/debug-core.log"}
+{"time":"2025-04-18T22:17:19.79164329+05:30","level":"INFO","msg":"created new stream","id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:19.791776828+05:30","level":"INFO","msg":"stream: started","id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:19.791808148+05:30","level":"INFO","msg":"handler: started","stream_id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:19.791807428+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:19.791823807+05:30","level":"INFO","msg":"sender: started","stream_id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:20.202917996+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:17:20.438401366+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:17:20.479580487+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:17:21.398850592+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.87712752,"progress":"2.4KB/2.4KB"},{"desc":"uploading data","runtime_seconds":0.275285494},{"desc":"updating run config","runtime_seconds":0.157957262}],"total_operations":3}}
+{"time":"2025-04-18T22:17:22.941749142+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:17:24.420740685+05:30","level":"INFO","msg":"stream: closing","id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:24.420770304+05:30","level":"INFO","msg":"handler: closed","stream_id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:24.420785024+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:24.420841553+05:30","level":"INFO","msg":"sender: closed","stream_id":"ogpm61xx"}
+{"time":"2025-04-18T22:17:24.420904272+05:30","level":"INFO","msg":"stream: closed","id":"ogpm61xx"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:46:40.93034171+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:46:40.930366189+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_194640-gaxr221l/logs/debug-core.log"}
+{"time":"2025-04-18T19:46:41.145254684+05:30","level":"INFO","msg":"created new stream","id":"gaxr221l"}
+{"time":"2025-04-18T19:46:41.145343522+05:30","level":"INFO","msg":"stream: started","id":"gaxr221l"}
+{"time":"2025-04-18T19:46:41.145737292+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gaxr221l"}
+{"time":"2025-04-18T19:46:41.148684397+05:30","level":"INFO","msg":"sender: started","stream_id":"gaxr221l"}
+{"time":"2025-04-18T19:46:41.148031393+05:30","level":"INFO","msg":"handler: started","stream_id":"gaxr221l"}
+{"time":"2025-04-18T19:46:41.497432544+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:50:02.196608647+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:50:02.197473158+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:50:03.159688484+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.366495421,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.064581939,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.06455931,"progress":"76.2KB/76.2KB"}],"total_operations":3}}
+{"time":"2025-04-18T19:50:04.05148676+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:50:05.407835211+05:30","level":"INFO","msg":"stream: closing","id":"gaxr221l"}
+{"time":"2025-04-18T19:50:05.40786024+05:30","level":"INFO","msg":"handler: closed","stream_id":"gaxr221l"}
+{"time":"2025-04-18T19:50:05.40787148+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gaxr221l"}
+{"time":"2025-04-18T19:50:05.40789791+05:30","level":"INFO","msg":"sender: closed","stream_id":"gaxr221l"}
+{"time":"2025-04-18T19:50:05.407956408+05:30","level":"INFO","msg":"stream: closed","id":"gaxr221l"}

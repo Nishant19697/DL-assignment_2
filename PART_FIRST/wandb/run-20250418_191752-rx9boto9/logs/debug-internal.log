@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:17:52.247203646+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:17:52.247221826+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_191752-rx9boto9/logs/debug-core.log"}
+{"time":"2025-04-18T19:17:52.460820313+05:30","level":"INFO","msg":"created new stream","id":"rx9boto9"}
+{"time":"2025-04-18T19:17:52.460871613+05:30","level":"INFO","msg":"stream: started","id":"rx9boto9"}
+{"time":"2025-04-18T19:17:52.460908782+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rx9boto9"}
+{"time":"2025-04-18T19:17:52.460944262+05:30","level":"INFO","msg":"handler: started","stream_id":"rx9boto9"}
+{"time":"2025-04-18T19:17:52.460982682+05:30","level":"INFO","msg":"sender: started","stream_id":"rx9boto9"}
+{"time":"2025-04-18T19:17:52.776686808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:17:53.031425019+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:17:53.032155285+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:17:53.992449106+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.166270936}],"total_operations":1}}
+{"time":"2025-04-18T19:17:54.970483885+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:17:56.289120591+05:30","level":"INFO","msg":"stream: closing","id":"rx9boto9"}
+{"time":"2025-04-18T19:17:56.289144621+05:30","level":"INFO","msg":"handler: closed","stream_id":"rx9boto9"}
+{"time":"2025-04-18T19:17:56.289155891+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rx9boto9"}
+{"time":"2025-04-18T19:17:56.289170081+05:30","level":"INFO","msg":"sender: closed","stream_id":"rx9boto9"}
+{"time":"2025-04-18T19:17:56.289225471+05:30","level":"INFO","msg":"stream: closed","id":"rx9boto9"}

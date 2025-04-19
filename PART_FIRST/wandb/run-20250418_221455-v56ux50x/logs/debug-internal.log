@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:14:55.186069903+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:14:55.186101392+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221455-v56ux50x/logs/debug-core.log"}
+{"time":"2025-04-18T22:14:55.405231602+05:30","level":"INFO","msg":"created new stream","id":"v56ux50x"}
+{"time":"2025-04-18T22:14:55.40535505+05:30","level":"INFO","msg":"stream: started","id":"v56ux50x"}
+{"time":"2025-04-18T22:14:55.405429288+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"v56ux50x"}
+{"time":"2025-04-18T22:14:55.405452988+05:30","level":"INFO","msg":"sender: started","stream_id":"v56ux50x"}
+{"time":"2025-04-18T22:14:55.405452948+05:30","level":"INFO","msg":"handler: started","stream_id":"v56ux50x"}
+{"time":"2025-04-18T22:14:56.058220695+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:14:56.337468314+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:14:56.338051554+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:14:57.298278695+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.505518913,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.151472478}],"total_operations":2}}
+{"time":"2025-04-18T22:14:58.352717813+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:14:59.697398776+05:30","level":"INFO","msg":"stream: closing","id":"v56ux50x"}
+{"time":"2025-04-18T22:14:59.697436526+05:30","level":"INFO","msg":"handler: closed","stream_id":"v56ux50x"}
+{"time":"2025-04-18T22:14:59.697455945+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"v56ux50x"}
+{"time":"2025-04-18T22:14:59.697560054+05:30","level":"INFO","msg":"sender: closed","stream_id":"v56ux50x"}
+{"time":"2025-04-18T22:14:59.697638452+05:30","level":"INFO","msg":"stream: closed","id":"v56ux50x"}

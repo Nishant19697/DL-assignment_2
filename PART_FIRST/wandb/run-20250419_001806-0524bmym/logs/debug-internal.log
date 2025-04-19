@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:18:06.994884075+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:18:06.994900625+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_001806-0524bmym/logs/debug-core.log"}
+{"time":"2025-04-19T00:18:07.20709999+05:30","level":"INFO","msg":"created new stream","id":"0524bmym"}
+{"time":"2025-04-19T00:18:07.207135801+05:30","level":"INFO","msg":"stream: started","id":"0524bmym"}
+{"time":"2025-04-19T00:18:07.207182581+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0524bmym"}
+{"time":"2025-04-19T00:18:07.207192011+05:30","level":"INFO","msg":"handler: started","stream_id":"0524bmym"}
+{"time":"2025-04-19T00:18:07.207264141+05:30","level":"INFO","msg":"sender: started","stream_id":"0524bmym"}
+{"time":"2025-04-19T00:18:07.549740267+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:23:17.08453335+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:23:17.089207539+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:23:18.085194221+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.392498829,"progress":"243B/243B"},{"desc":"uploading config.yaml","runtime_seconds":0.083016293,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.083002133,"progress":"2.9KB/2.9KB"}],"total_operations":3}}
+{"time":"2025-04-19T00:23:19.78202208+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:23:21.092001953+05:30","level":"INFO","msg":"stream: closing","id":"0524bmym"}
+{"time":"2025-04-19T00:23:21.092044183+05:30","level":"INFO","msg":"handler: closed","stream_id":"0524bmym"}
+{"time":"2025-04-19T00:23:21.092063253+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0524bmym"}
+{"time":"2025-04-19T00:23:21.092110513+05:30","level":"INFO","msg":"sender: closed","stream_id":"0524bmym"}
+{"time":"2025-04-19T00:23:21.092184213+05:30","level":"INFO","msg":"stream: closed","id":"0524bmym"}

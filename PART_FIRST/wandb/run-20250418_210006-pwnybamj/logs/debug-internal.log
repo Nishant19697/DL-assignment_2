@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:00:06.617715415+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:00:06.617732774+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210006-pwnybamj/logs/debug-core.log"}
+{"time":"2025-04-18T21:00:06.830620669+05:30","level":"INFO","msg":"created new stream","id":"pwnybamj"}
+{"time":"2025-04-18T21:00:06.830679838+05:30","level":"INFO","msg":"stream: started","id":"pwnybamj"}
+{"time":"2025-04-18T21:00:06.830757218+05:30","level":"INFO","msg":"sender: started","stream_id":"pwnybamj"}
+{"time":"2025-04-18T21:00:06.830741328+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pwnybamj"}
+{"time":"2025-04-18T21:00:06.830837857+05:30","level":"INFO","msg":"handler: started","stream_id":"pwnybamj"}
+{"time":"2025-04-18T21:00:07.141382076+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:00:07.438462903+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:00:07.439210957+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:00:08.399012648+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.51020732,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.208588033}],"total_operations":2}}
+{"time":"2025-04-18T21:00:09.334007768+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:00:10.67446068+05:30","level":"INFO","msg":"stream: closing","id":"pwnybamj"}
+{"time":"2025-04-18T21:00:10.674498549+05:30","level":"INFO","msg":"handler: closed","stream_id":"pwnybamj"}
+{"time":"2025-04-18T21:00:10.674517189+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pwnybamj"}
+{"time":"2025-04-18T21:00:10.674549379+05:30","level":"INFO","msg":"sender: closed","stream_id":"pwnybamj"}
+{"time":"2025-04-18T21:00:10.674621218+05:30","level":"INFO","msg":"stream: closed","id":"pwnybamj"}

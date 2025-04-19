@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:33:27.816345464+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:33:27.816369784+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_223327-j0713bh8/logs/debug-core.log"}
+{"time":"2025-04-18T22:33:28.033348205+05:30","level":"INFO","msg":"created new stream","id":"j0713bh8"}
+{"time":"2025-04-18T22:33:28.033418655+05:30","level":"INFO","msg":"stream: started","id":"j0713bh8"}
+{"time":"2025-04-18T22:33:28.033451795+05:30","level":"INFO","msg":"handler: started","stream_id":"j0713bh8"}
+{"time":"2025-04-18T22:33:28.033508405+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j0713bh8"}
+{"time":"2025-04-18T22:33:28.033543255+05:30","level":"INFO","msg":"sender: started","stream_id":"j0713bh8"}
+{"time":"2025-04-18T22:33:28.392084176+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:33:28.636467939+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:33:28.63699106+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:33:29.596843444+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.89762727,"progress":"2.4KB/2.4KB"},{"desc":"uploading requirements.txt","runtime_seconds":0.76502469,"progress":"3.6KB/3.6KB"},{"desc":"uploading summary, console lines 0-1","runtime_seconds":0.021470429},{"desc":"updating run config","runtime_seconds":0.021185699}],"total_operations":4}}
+{"time":"2025-04-18T22:33:31.696234794+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:33:32.981891972+05:30","level":"INFO","msg":"stream: closing","id":"j0713bh8"}
+{"time":"2025-04-18T22:33:32.981931083+05:30","level":"INFO","msg":"handler: closed","stream_id":"j0713bh8"}
+{"time":"2025-04-18T22:33:32.981949673+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j0713bh8"}
+{"time":"2025-04-18T22:33:32.981957833+05:30","level":"INFO","msg":"sender: closed","stream_id":"j0713bh8"}
+{"time":"2025-04-18T22:33:32.982045003+05:30","level":"INFO","msg":"stream: closed","id":"j0713bh8"}

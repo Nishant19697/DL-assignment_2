@@ -1,0 +1,17 @@
+{"time":"2025-04-18T18:03:16.736617559+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T18:03:16.736630359+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_180316-tybe1x5d/logs/debug-core.log"}
+{"time":"2025-04-18T18:03:16.949380893+05:30","level":"INFO","msg":"created new stream","id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:16.949449223+05:30","level":"INFO","msg":"stream: started","id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:16.949498393+05:30","level":"INFO","msg":"handler: started","stream_id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:16.949505503+05:30","level":"INFO","msg":"sender: started","stream_id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:16.949500473+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:17.306891899+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T18:03:17.786554599+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T18:03:17.787853545+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T18:03:18.747144513+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.026764125,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.026751495,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T18:03:19.422885968+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T18:03:20.731818822+05:30","level":"INFO","msg":"stream: closing","id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:20.731847422+05:30","level":"INFO","msg":"handler: closed","stream_id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:20.731860212+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:20.731905922+05:30","level":"INFO","msg":"sender: closed","stream_id":"tybe1x5d"}
+{"time":"2025-04-18T18:03:20.731944902+05:30","level":"INFO","msg":"stream: closed","id":"tybe1x5d"}

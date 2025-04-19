@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:11:05.333754807+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:11:05.333782067+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_211105-csu45xaz/logs/debug-core.log"}
+{"time":"2025-04-18T21:11:05.554432301+05:30","level":"INFO","msg":"created new stream","id":"csu45xaz"}
+{"time":"2025-04-18T21:11:05.55451408+05:30","level":"INFO","msg":"stream: started","id":"csu45xaz"}
+{"time":"2025-04-18T21:11:05.55456957+05:30","level":"INFO","msg":"sender: started","stream_id":"csu45xaz"}
+{"time":"2025-04-18T21:11:05.55457068+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"csu45xaz"}
+{"time":"2025-04-18T21:11:05.554623649+05:30","level":"INFO","msg":"handler: started","stream_id":"csu45xaz"}
+{"time":"2025-04-18T21:11:05.868329692+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:11:06.253607148+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:11:06.25457649+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:11:07.214913501+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.515922508,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.266123632}],"total_operations":2}}
+{"time":"2025-04-18T21:11:08.203951166+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:11:09.521495714+05:30","level":"INFO","msg":"stream: closing","id":"csu45xaz"}
+{"time":"2025-04-18T21:11:09.521527004+05:30","level":"INFO","msg":"handler: closed","stream_id":"csu45xaz"}
+{"time":"2025-04-18T21:11:09.521542274+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"csu45xaz"}
+{"time":"2025-04-18T21:11:09.521577534+05:30","level":"INFO","msg":"sender: closed","stream_id":"csu45xaz"}
+{"time":"2025-04-18T21:11:09.521641013+05:30","level":"INFO","msg":"stream: closed","id":"csu45xaz"}

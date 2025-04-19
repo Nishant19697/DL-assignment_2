@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:12:12.585667221+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:12:12.585697342+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_001212-cdd05wwr/logs/debug-core.log"}
+{"time":"2025-04-19T00:12:12.805329425+05:30","level":"INFO","msg":"created new stream","id":"cdd05wwr"}
+{"time":"2025-04-19T00:12:12.805415906+05:30","level":"INFO","msg":"stream: started","id":"cdd05wwr"}
+{"time":"2025-04-19T00:12:12.805436176+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cdd05wwr"}
+{"time":"2025-04-19T00:12:12.805459177+05:30","level":"INFO","msg":"sender: started","stream_id":"cdd05wwr"}
+{"time":"2025-04-19T00:12:12.805488437+05:30","level":"INFO","msg":"handler: started","stream_id":"cdd05wwr"}
+{"time":"2025-04-19T00:12:13.128680525+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:15:06.765010361+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:15:06.76586511+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:15:07.76573605+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.084098394,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.084073914,"progress":"3.6KB/3.6KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:15:08.231356856+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:15:09.605129865+05:30","level":"INFO","msg":"stream: closing","id":"cdd05wwr"}
+{"time":"2025-04-19T00:15:09.605172475+05:30","level":"INFO","msg":"handler: closed","stream_id":"cdd05wwr"}
+{"time":"2025-04-19T00:15:09.605186876+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cdd05wwr"}
+{"time":"2025-04-19T00:15:09.605250476+05:30","level":"INFO","msg":"sender: closed","stream_id":"cdd05wwr"}
+{"time":"2025-04-19T00:15:09.605371837+05:30","level":"INFO","msg":"stream: closed","id":"cdd05wwr"}

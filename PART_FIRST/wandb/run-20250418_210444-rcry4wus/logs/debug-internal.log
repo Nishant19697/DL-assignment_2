@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:04:44.113743704+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:04:44.113770874+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210444-rcry4wus/logs/debug-core.log"}
+{"time":"2025-04-18T21:04:44.334251306+05:30","level":"INFO","msg":"created new stream","id":"rcry4wus"}
+{"time":"2025-04-18T21:04:44.334355555+05:30","level":"INFO","msg":"stream: started","id":"rcry4wus"}
+{"time":"2025-04-18T21:04:44.334352055+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rcry4wus"}
+{"time":"2025-04-18T21:04:44.334357425+05:30","level":"INFO","msg":"handler: started","stream_id":"rcry4wus"}
+{"time":"2025-04-18T21:04:44.334422004+05:30","level":"INFO","msg":"sender: started","stream_id":"rcry4wus"}
+{"time":"2025-04-18T21:04:44.678773592+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:04:45.033430573+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:04:45.034099537+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:04:45.994037547+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.613643778,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.244743947}],"total_operations":2}}
+{"time":"2025-04-18T21:04:46.887395859+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:04:48.203257683+05:30","level":"INFO","msg":"stream: closing","id":"rcry4wus"}
+{"time":"2025-04-18T21:04:48.203272843+05:30","level":"INFO","msg":"handler: closed","stream_id":"rcry4wus"}
+{"time":"2025-04-18T21:04:48.203281422+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rcry4wus"}
+{"time":"2025-04-18T21:04:48.203288762+05:30","level":"INFO","msg":"sender: closed","stream_id":"rcry4wus"}
+{"time":"2025-04-18T21:04:48.203344282+05:30","level":"INFO","msg":"stream: closed","id":"rcry4wus"}

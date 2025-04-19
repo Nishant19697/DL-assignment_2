@@ -1,0 +1,17 @@
+{"time":"2025-04-18T18:32:47.260242242+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T18:32:47.260271132+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_183247-vqieu4qe/logs/debug-core.log"}
+{"time":"2025-04-18T18:32:47.474019388+05:30","level":"INFO","msg":"created new stream","id":"vqieu4qe"}
+{"time":"2025-04-18T18:32:47.474094078+05:30","level":"INFO","msg":"stream: started","id":"vqieu4qe"}
+{"time":"2025-04-18T18:32:47.474139019+05:30","level":"INFO","msg":"handler: started","stream_id":"vqieu4qe"}
+{"time":"2025-04-18T18:32:47.474157319+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vqieu4qe"}
+{"time":"2025-04-18T18:32:47.474195369+05:30","level":"INFO","msg":"sender: started","stream_id":"vqieu4qe"}
+{"time":"2025-04-18T18:32:47.80713133+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T18:35:55.585261303+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T18:35:55.586053783+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T18:35:56.585875323+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.11795235,"progress":"6.5KB/6.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.11792573,"progress":"1.0KB/1.0KB"}],"total_operations":2}}
+{"time":"2025-04-18T18:35:56.853914691+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T18:35:58.343587946+05:30","level":"INFO","msg":"stream: closing","id":"vqieu4qe"}
+{"time":"2025-04-18T18:35:58.343614586+05:30","level":"INFO","msg":"handler: closed","stream_id":"vqieu4qe"}
+{"time":"2025-04-18T18:35:58.343628526+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vqieu4qe"}
+{"time":"2025-04-18T18:35:58.343637946+05:30","level":"INFO","msg":"sender: closed","stream_id":"vqieu4qe"}
+{"time":"2025-04-18T18:35:58.343724946+05:30","level":"INFO","msg":"stream: closed","id":"vqieu4qe"}

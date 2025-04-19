@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:02:25.54097154+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:02:25.54098732+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210225-nfnimp7c/logs/debug-core.log"}
+{"time":"2025-04-18T21:02:25.759571686+05:30","level":"INFO","msg":"created new stream","id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:25.759674135+05:30","level":"INFO","msg":"stream: started","id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:25.759722735+05:30","level":"INFO","msg":"handler: started","stream_id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:25.759710625+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:25.759737914+05:30","level":"INFO","msg":"sender: started","stream_id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:26.082669666+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:02:26.361526516+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:02:26.36216865+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:02:27.321691566+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.133583825}],"total_operations":1}}
+{"time":"2025-04-18T21:02:28.17415443+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:02:29.496239271+05:30","level":"INFO","msg":"stream: closing","id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:29.496278721+05:30","level":"INFO","msg":"handler: closed","stream_id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:29.496295491+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:29.49636096+05:30","level":"INFO","msg":"sender: closed","stream_id":"nfnimp7c"}
+{"time":"2025-04-18T21:02:29.496431909+05:30","level":"INFO","msg":"stream: closed","id":"nfnimp7c"}

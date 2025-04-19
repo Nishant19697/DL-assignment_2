@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:55:05.740272896+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:55:05.740317046+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005505-khsc7xr5/logs/debug-core.log"}
+{"time":"2025-04-19T00:55:05.955825903+05:30","level":"INFO","msg":"created new stream","id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:05.955880942+05:30","level":"INFO","msg":"stream: started","id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:05.955897752+05:30","level":"INFO","msg":"sender: started","stream_id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:05.955897802+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:05.955975021+05:30","level":"INFO","msg":"handler: started","stream_id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:06.27831843+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:55:08.990091196+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:55:08.990860955+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:55:09.99091725+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.424015464,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.424001074,"progress":"2.0KB/2.0KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:55:11.04387516+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:55:12.366711949+05:30","level":"INFO","msg":"stream: closing","id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:12.366732889+05:30","level":"INFO","msg":"handler: closed","stream_id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:12.366740569+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:12.366752319+05:30","level":"INFO","msg":"sender: closed","stream_id":"khsc7xr5"}
+{"time":"2025-04-19T00:55:12.366793028+05:30","level":"INFO","msg":"stream: closed","id":"khsc7xr5"}

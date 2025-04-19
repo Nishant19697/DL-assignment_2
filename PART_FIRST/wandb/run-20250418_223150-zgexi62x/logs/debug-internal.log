@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:31:50.802934266+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:31:50.802968107+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_223150-zgexi62x/logs/debug-core.log"}
+{"time":"2025-04-18T22:31:51.023083257+05:30","level":"INFO","msg":"created new stream","id":"zgexi62x"}
+{"time":"2025-04-18T22:31:51.023144677+05:30","level":"INFO","msg":"stream: started","id":"zgexi62x"}
+{"time":"2025-04-18T22:31:51.023185737+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zgexi62x"}
+{"time":"2025-04-18T22:31:51.023185087+05:30","level":"INFO","msg":"handler: started","stream_id":"zgexi62x"}
+{"time":"2025-04-18T22:31:51.023249348+05:30","level":"INFO","msg":"sender: started","stream_id":"zgexi62x"}
+{"time":"2025-04-18T22:31:51.360876081+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:31:51.733513373+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:31:51.734451388+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:31:52.69372836+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.94865433,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.590442054,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.26312594}],"total_operations":3}}
+{"time":"2025-04-18T22:31:54.380719155+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:31:55.733271342+05:30","level":"INFO","msg":"stream: closing","id":"zgexi62x"}
+{"time":"2025-04-18T22:31:55.733345273+05:30","level":"INFO","msg":"handler: closed","stream_id":"zgexi62x"}
+{"time":"2025-04-18T22:31:55.733377483+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zgexi62x"}
+{"time":"2025-04-18T22:31:55.733392813+05:30","level":"INFO","msg":"sender: closed","stream_id":"zgexi62x"}
+{"time":"2025-04-18T22:31:55.733531744+05:30","level":"INFO","msg":"stream: closed","id":"zgexi62x"}

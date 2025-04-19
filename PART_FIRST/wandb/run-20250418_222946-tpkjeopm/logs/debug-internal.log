@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:29:46.772378864+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:29:46.772407934+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_222946-tpkjeopm/logs/debug-core.log"}
+{"time":"2025-04-18T22:29:46.987733732+05:30","level":"INFO","msg":"created new stream","id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:46.987806313+05:30","level":"INFO","msg":"stream: started","id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:46.987836343+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:46.987849054+05:30","level":"INFO","msg":"sender: started","stream_id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:46.987859674+05:30","level":"INFO","msg":"handler: started","stream_id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:47.303121604+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:29:47.598612289+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:29:47.59965662+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:29:48.558178076+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.315557769,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.17147285}],"total_operations":2}}
+{"time":"2025-04-18T22:29:49.348618846+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:29:50.700016602+05:30","level":"INFO","msg":"stream: closing","id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:50.700049323+05:30","level":"INFO","msg":"handler: closed","stream_id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:50.700062883+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:50.700087903+05:30","level":"INFO","msg":"sender: closed","stream_id":"tpkjeopm"}
+{"time":"2025-04-18T22:29:50.700172944+05:30","level":"INFO","msg":"stream: closed","id":"tpkjeopm"}

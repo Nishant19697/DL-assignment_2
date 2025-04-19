@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:49:06.439614101+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:49:06.439670431+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_204906-yoly35wx/logs/debug-core.log"}
+{"time":"2025-04-18T20:49:06.650307732+05:30","level":"INFO","msg":"created new stream","id":"yoly35wx"}
+{"time":"2025-04-18T20:49:06.650356962+05:30","level":"INFO","msg":"stream: started","id":"yoly35wx"}
+{"time":"2025-04-18T20:49:06.650376181+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yoly35wx"}
+{"time":"2025-04-18T20:49:06.650382491+05:30","level":"INFO","msg":"handler: started","stream_id":"yoly35wx"}
+{"time":"2025-04-18T20:49:06.650433281+05:30","level":"INFO","msg":"sender: started","stream_id":"yoly35wx"}
+{"time":"2025-04-18T20:49:06.977849724+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:49:07.246506406+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:49:07.247221298+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:49:08.207454992+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.239208724}],"total_operations":1}}
+{"time":"2025-04-18T20:49:08.966394875+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:49:10.282915966+05:30","level":"INFO","msg":"stream: closing","id":"yoly35wx"}
+{"time":"2025-04-18T20:49:10.282952265+05:30","level":"INFO","msg":"handler: closed","stream_id":"yoly35wx"}
+{"time":"2025-04-18T20:49:10.282966765+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yoly35wx"}
+{"time":"2025-04-18T20:49:10.282997885+05:30","level":"INFO","msg":"sender: closed","stream_id":"yoly35wx"}
+{"time":"2025-04-18T20:49:10.283056464+05:30","level":"INFO","msg":"stream: closed","id":"yoly35wx"}

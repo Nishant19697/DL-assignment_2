@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:08:18.047897055+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:08:18.047911235+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190818-pni988eh/logs/debug-core.log"}
+{"time":"2025-04-18T19:08:18.261917691+05:30","level":"INFO","msg":"created new stream","id":"pni988eh"}
+{"time":"2025-04-18T19:08:18.261987071+05:30","level":"INFO","msg":"stream: started","id":"pni988eh"}
+{"time":"2025-04-18T19:08:18.262018401+05:30","level":"INFO","msg":"handler: started","stream_id":"pni988eh"}
+{"time":"2025-04-18T19:08:18.262023361+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pni988eh"}
+{"time":"2025-04-18T19:08:18.262039221+05:30","level":"INFO","msg":"sender: started","stream_id":"pni988eh"}
+{"time":"2025-04-18T19:08:18.61280012+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:08:18.871424141+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:08:18.872039541+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:08:19.831501237+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.169834677}],"total_operations":1}}
+{"time":"2025-04-18T19:08:20.636617212+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:08:22.195364223+05:30","level":"INFO","msg":"stream: closing","id":"pni988eh"}
+{"time":"2025-04-18T19:08:22.195398483+05:30","level":"INFO","msg":"handler: closed","stream_id":"pni988eh"}
+{"time":"2025-04-18T19:08:22.195412323+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pni988eh"}
+{"time":"2025-04-18T19:08:22.195422993+05:30","level":"INFO","msg":"sender: closed","stream_id":"pni988eh"}
+{"time":"2025-04-18T19:08:22.195483013+05:30","level":"INFO","msg":"stream: closed","id":"pni988eh"}

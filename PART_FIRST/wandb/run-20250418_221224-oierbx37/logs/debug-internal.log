@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:12:24.580892003+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:12:24.580911243+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221224-oierbx37/logs/debug-core.log"}
+{"time":"2025-04-18T22:12:24.796043985+05:30","level":"INFO","msg":"created new stream","id":"oierbx37"}
+{"time":"2025-04-18T22:12:24.796104944+05:30","level":"INFO","msg":"stream: started","id":"oierbx37"}
+{"time":"2025-04-18T22:12:24.796147313+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"oierbx37"}
+{"time":"2025-04-18T22:12:24.796147653+05:30","level":"INFO","msg":"sender: started","stream_id":"oierbx37"}
+{"time":"2025-04-18T22:12:24.79632831+05:30","level":"INFO","msg":"handler: started","stream_id":"oierbx37"}
+{"time":"2025-04-18T22:12:25.155061151+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:12:26.964754507+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:12:26.965639442+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:12:27.965297616+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.695135486,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.41387031,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.413864,"progress":"2.0KB/2.0KB"}],"total_operations":3}}
+{"time":"2025-04-18T22:12:28.207084156+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:12:29.584731824+05:30","level":"INFO","msg":"stream: closing","id":"oierbx37"}
+{"time":"2025-04-18T22:12:29.584798712+05:30","level":"INFO","msg":"handler: closed","stream_id":"oierbx37"}
+{"time":"2025-04-18T22:12:29.584831182+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"oierbx37"}
+{"time":"2025-04-18T22:12:29.584885491+05:30","level":"INFO","msg":"sender: closed","stream_id":"oierbx37"}
+{"time":"2025-04-18T22:12:29.584988109+05:30","level":"INFO","msg":"stream: closed","id":"oierbx37"}

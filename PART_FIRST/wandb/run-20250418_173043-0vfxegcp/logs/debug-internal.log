@@ -1,0 +1,14 @@
+{"time":"2025-04-18T17:30:43.500426432+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:30:43.50051625+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173043-0vfxegcp/logs/debug-core.log"}
+{"time":"2025-04-18T17:30:43.721941561+05:30","level":"INFO","msg":"created new stream","id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:43.72200508+05:30","level":"INFO","msg":"stream: started","id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:43.722043919+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:43.722114547+05:30","level":"INFO","msg":"sender: started","stream_id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:43.722190555+05:30","level":"INFO","msg":"handler: started","stream_id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:44.328799472+05:30","level":"INFO","msg":"stream: closing","id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:44.32964045+05:30","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-04-18T17:30:45.046935058+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:30:45.047068745+05:30","level":"INFO","msg":"handler: closed","stream_id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:45.047085424+05:30","level":"INFO","msg":"sender: closed","stream_id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:45.047085494+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0vfxegcp"}
+{"time":"2025-04-18T17:30:45.047188861+05:30","level":"INFO","msg":"stream: closed","id":"0vfxegcp"}

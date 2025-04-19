@@ -1,0 +1,45 @@
+[(64, 7), (64, 5), (64, 5), (64, 3), (64, 3)]
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(1, 1), padding=(3, 3))
+    (act1): SiLU()
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(64, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act2): SiLU()
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(64, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act3): SiLU()
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act4): SiLU()
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act5): SiLU()
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=3136, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): SiLU()
+    (3): Dropout(p=0.3, inplace=False)
+    (4): Linear(in_features=512, out_features=10, bias=True)
+  )
+)
+Number of parameters: 1900554
+Memory used :  26493.018112
+Epoch 1/15 | Train Loss: 2.1901 | Val Loss: 2.0847 | Val Acc: 26.30%
+Epoch 2/15 | Train Loss: 2.0984 | Val Loss: 2.0551 | Val Acc: 29.60%
+Epoch 3/15 | Train Loss: 2.0583 | Val Loss: 2.0971 | Val Acc: 27.80%
+Epoch 4/15 | Train Loss: 2.0407 | Val Loss: 2.0888 | Val Acc: 27.35%
+Epoch 5/15 | Train Loss: 2.0265 | Val Loss: 2.0467 | Val Acc: 28.30%
+Epoch 6/15 | Train Loss: 2.0055 | Val Loss: 2.0349 | Val Acc: 31.05%
+Epoch 7/15 | Train Loss: 2.0029 | Val Loss: 2.0307 | Val Acc: 31.60%
+Epoch 8/15 | Train Loss: 1.9894 | Val Loss: 2.0466 | Val Acc: 28.25%
+Epoch 9/15 | Train Loss: 1.9845 | Val Loss: 2.0976 | Val Acc: 26.25%
+Epoch 10/15 | Train Loss: 1.9870 | Val Loss: 2.0233 | Val Acc: 30.25%
+Epoch 11/15 | Train Loss: 1.9740 | Val Loss: 2.0248 | Val Acc: 30.60%
+Epoch 12/15 | Train Loss: 1.9610 | Val Loss: 2.0157 | Val Acc: 31.10%
+Epoch 13/15 | Train Loss: 1.9628 | Val Loss: 1.9797 | Val Acc: 33.25%
+Epoch 14/15 | Train Loss: 1.9504 | Val Loss: 2.0232 | Val Acc: 31.10%
+Epoch 15/15 | Train Loss: 1.9505 | Val Loss: 2.0084 | Val Acc: 28.95%
+Test Loss: 1.9878 | Test Acc: 32.00%

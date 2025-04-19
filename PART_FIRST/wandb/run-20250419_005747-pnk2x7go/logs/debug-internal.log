@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:57:47.421906906+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:57:47.421933936+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005747-pnk2x7go/logs/debug-core.log"}
+{"time":"2025-04-19T00:57:47.637165223+05:30","level":"INFO","msg":"created new stream","id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:47.637229692+05:30","level":"INFO","msg":"stream: started","id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:47.637257772+05:30","level":"INFO","msg":"handler: started","stream_id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:47.637261662+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:47.637427579+05:30","level":"INFO","msg":"sender: started","stream_id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:47.957556472+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:57:48.232456562+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:57:48.233008055+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:57:49.193592361+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.917194236,"progress":"2.4KB/2.4KB"},{"desc":"uploading requirements.txt","runtime_seconds":0.834688351,"progress":"3.6KB/3.6KB"},{"desc":"uploading summary","runtime_seconds":0.050936799},{"desc":"updating run config","runtime_seconds":0.048202695}],"total_operations":4}}
+{"time":"2025-04-19T00:57:50.993186022+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:57:52.334011107+05:30","level":"INFO","msg":"stream: closing","id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:52.334089206+05:30","level":"INFO","msg":"handler: closed","stream_id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:52.334127746+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:52.334167655+05:30","level":"INFO","msg":"sender: closed","stream_id":"pnk2x7go"}
+{"time":"2025-04-19T00:57:52.334440732+05:30","level":"INFO","msg":"stream: closed","id":"pnk2x7go"}

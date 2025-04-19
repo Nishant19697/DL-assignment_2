@@ -1,0 +1,45 @@
+Memory used before starting :  0.0 0.0
+[(512, 7), (256, 5), (128, 5), (64, 3), (32, 3)]
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 512, kernel_size=(7, 7), stride=(1, 1), padding=(3, 3))
+    (act1): ReLU()
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(512, 256, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act2): ReLU()
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(256, 128, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act3): ReLU()
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(128, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act4): ReLU()
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(64, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act5): ReLU()
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=1568, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=512, out_features=10, bias=True)
+  )
+)
+Number of parameters: 5073898
+Memory used :  20.301312 37.748736
+Epoch 1 peak memory used: 18946.15 MB
+Epoch 1/15 | Train Loss: 2.2695 | Val Loss: 2.2616 | Val Acc: 21.25%
+Epoch 2 peak memory used: 18946.15 MB
+Epoch 2/15 | Train Loss: 2.1126 | Val Loss: 2.0651 | Val Acc: 29.60%
+Epoch 3 peak memory used: 18946.15 MB
+Epoch 3/15 | Train Loss: 2.0415 | Val Loss: 2.0714 | Val Acc: 29.55%
+Epoch 4 peak memory used: 18946.15 MB
+Epoch 4/15 | Train Loss: 1.9888 | Val Loss: 2.0235 | Val Acc: 30.25%
+Epoch 5 peak memory used: 18946.15 MB
+Epoch 5/15 | Train Loss: 1.9451 | Val Loss: 2.0536 | Val Acc: 29.50%
+Epoch 6 peak memory used: 18946.15 MB
+Epoch 6/15 | Train Loss: 1.9044 | Val Loss: 1.9692 | Val Acc: 32.65%
+Epoch 7 peak memory used: 18946.15 MB
+Epoch 7/15 | Train Loss: 1.8552 | Val Loss: 1.9334 | Val Acc: 35.25%
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:27:06.958936045+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:27:06.958953705+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_222706-13ahp731/logs/debug-core.log"}
+{"time":"2025-04-18T22:27:07.172919929+05:30","level":"INFO","msg":"created new stream","id":"13ahp731"}
+{"time":"2025-04-18T22:27:07.172988278+05:30","level":"INFO","msg":"stream: started","id":"13ahp731"}
+{"time":"2025-04-18T22:27:07.173003047+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"13ahp731"}
+{"time":"2025-04-18T22:27:07.173012607+05:30","level":"INFO","msg":"handler: started","stream_id":"13ahp731"}
+{"time":"2025-04-18T22:27:07.173047997+05:30","level":"INFO","msg":"sender: started","stream_id":"13ahp731"}
+{"time":"2025-04-18T22:27:07.684680289+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:27:07.977494177+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:27:07.978426784+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:27:08.937220294+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.427359968,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.020097926}],"total_operations":2}}
+{"time":"2025-04-18T22:27:10.197763444+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:27:11.553180486+05:30","level":"INFO","msg":"stream: closing","id":"13ahp731"}
+{"time":"2025-04-18T22:27:11.553230465+05:30","level":"INFO","msg":"handler: closed","stream_id":"13ahp731"}
+{"time":"2025-04-18T22:27:11.553258094+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"13ahp731"}
+{"time":"2025-04-18T22:27:11.553282604+05:30","level":"INFO","msg":"sender: closed","stream_id":"13ahp731"}
+{"time":"2025-04-18T22:27:11.553411982+05:30","level":"INFO","msg":"stream: closed","id":"13ahp731"}

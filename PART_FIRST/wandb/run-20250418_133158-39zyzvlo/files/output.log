@@ -1,0 +1,42 @@
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 32, kernel_size=(7, 7), stride=(1, 1), padding=(3, 3))
+    (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act1): GELU(approximate='none')
+    (drop1): Dropout(p=0.25, inplace=False)
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(32, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act2): GELU(approximate='none')
+    (drop2): Dropout(p=0.25, inplace=False)
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (bn3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act3): GELU(approximate='none')
+    (drop3): Dropout(p=0.25, inplace=False)
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (bn4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act4): GELU(approximate='none')
+    (drop4): Dropout(p=0.25, inplace=False)
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (bn5): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (act5): GELU(approximate='none')
+    (drop5): Dropout(p=0.25, inplace=False)
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=25088, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): GELU(approximate='none')
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=512, out_features=10, bias=True)
+  )
+)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.13it/s]
+Epoch 1/10 | Train Loss: 2.1152 | Val Loss: 2.3457 | Val Acc: 16.50%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.05it/s]
+Epoch 2/10 | Train Loss: 1.9511 | Val Loss: 2.3635 | Val Acc: 14.15%
+ 50%|████████████████████████████████████████████████                                                | 16/32 [00:06<00:03,  4.06it/s][34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+ 50%|████████████████████████████████████████████████                                                | 16/32 [00:07<00:07,  2.22it/s]

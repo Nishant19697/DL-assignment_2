@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:04:43.039504982+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:04:43.039527772+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190443-2vwn1log/logs/debug-core.log"}
+{"time":"2025-04-18T19:04:43.25150908+05:30","level":"INFO","msg":"created new stream","id":"2vwn1log"}
+{"time":"2025-04-18T19:04:43.251569531+05:30","level":"INFO","msg":"stream: started","id":"2vwn1log"}
+{"time":"2025-04-18T19:04:43.251608091+05:30","level":"INFO","msg":"sender: started","stream_id":"2vwn1log"}
+{"time":"2025-04-18T19:04:43.251613031+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2vwn1log"}
+{"time":"2025-04-18T19:04:43.251708711+05:30","level":"INFO","msg":"handler: started","stream_id":"2vwn1log"}
+{"time":"2025-04-18T19:04:43.556664676+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:04:43.822421833+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:04:43.823121576+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:04:44.783270356+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.834575772,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.485508535,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.162107452}],"total_operations":3}}
+{"time":"2025-04-18T19:04:46.534023228+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:04:47.854031951+05:30","level":"INFO","msg":"stream: closing","id":"2vwn1log"}
+{"time":"2025-04-18T19:04:47.854067711+05:30","level":"INFO","msg":"handler: closed","stream_id":"2vwn1log"}
+{"time":"2025-04-18T19:04:47.854080291+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2vwn1log"}
+{"time":"2025-04-18T19:04:47.854133901+05:30","level":"INFO","msg":"sender: closed","stream_id":"2vwn1log"}
+{"time":"2025-04-18T19:04:47.854199632+05:30","level":"INFO","msg":"stream: closed","id":"2vwn1log"}

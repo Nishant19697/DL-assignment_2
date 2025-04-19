@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:19:08.13971144+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:19:08.13972784+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221908-nhc1668c/logs/debug-core.log"}
+{"time":"2025-04-18T22:19:08.357319689+05:30","level":"INFO","msg":"created new stream","id":"nhc1668c"}
+{"time":"2025-04-18T22:19:08.357392848+05:30","level":"INFO","msg":"stream: started","id":"nhc1668c"}
+{"time":"2025-04-18T22:19:08.357449057+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nhc1668c"}
+{"time":"2025-04-18T22:19:08.357450917+05:30","level":"INFO","msg":"sender: started","stream_id":"nhc1668c"}
+{"time":"2025-04-18T22:19:08.357453877+05:30","level":"INFO","msg":"handler: started","stream_id":"nhc1668c"}
+{"time":"2025-04-18T22:19:08.689206491+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:19:08.925480428+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:19:08.926264166+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:19:09.886109445+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.820581106,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.480923964,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.20025214}],"total_operations":3}}
+{"time":"2025-04-18T22:19:11.308211515+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:19:12.664028517+05:30","level":"INFO","msg":"stream: closing","id":"nhc1668c"}
+{"time":"2025-04-18T22:19:12.664051607+05:30","level":"INFO","msg":"handler: closed","stream_id":"nhc1668c"}
+{"time":"2025-04-18T22:19:12.664062317+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nhc1668c"}
+{"time":"2025-04-18T22:19:12.664113626+05:30","level":"INFO","msg":"sender: closed","stream_id":"nhc1668c"}
+{"time":"2025-04-18T22:19:12.664137656+05:30","level":"INFO","msg":"stream: closed","id":"nhc1668c"}

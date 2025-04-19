@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:57:25.880657835+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:57:25.880676115+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005725-3bynonfr/logs/debug-core.log"}
+{"time":"2025-04-19T00:57:26.099489089+05:30","level":"INFO","msg":"created new stream","id":"3bynonfr"}
+{"time":"2025-04-19T00:57:26.099578268+05:30","level":"INFO","msg":"stream: started","id":"3bynonfr"}
+{"time":"2025-04-19T00:57:26.099591317+05:30","level":"INFO","msg":"handler: started","stream_id":"3bynonfr"}
+{"time":"2025-04-19T00:57:26.099601077+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3bynonfr"}
+{"time":"2025-04-19T00:57:26.099677766+05:30","level":"INFO","msg":"sender: started","stream_id":"3bynonfr"}
+{"time":"2025-04-19T00:57:26.456226659+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:57:26.801586044+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:57:26.802496822+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:57:27.761075058+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.590549267,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.253653664}],"total_operations":2}}
+{"time":"2025-04-19T00:57:28.442511385+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:57:29.76059585+05:30","level":"INFO","msg":"stream: closing","id":"3bynonfr"}
+{"time":"2025-04-19T00:57:29.760641069+05:30","level":"INFO","msg":"handler: closed","stream_id":"3bynonfr"}
+{"time":"2025-04-19T00:57:29.760659299+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3bynonfr"}
+{"time":"2025-04-19T00:57:29.760703068+05:30","level":"INFO","msg":"sender: closed","stream_id":"3bynonfr"}
+{"time":"2025-04-19T00:57:29.760781067+05:30","level":"INFO","msg":"stream: closed","id":"3bynonfr"}

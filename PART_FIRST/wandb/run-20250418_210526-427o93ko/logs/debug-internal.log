@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:05:26.68685646+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:05:26.68689107+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210526-427o93ko/logs/debug-core.log"}
+{"time":"2025-04-18T21:05:26.903025076+05:30","level":"INFO","msg":"created new stream","id":"427o93ko"}
+{"time":"2025-04-18T21:05:26.903081856+05:30","level":"INFO","msg":"stream: started","id":"427o93ko"}
+{"time":"2025-04-18T21:05:26.903112746+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"427o93ko"}
+{"time":"2025-04-18T21:05:26.903144475+05:30","level":"INFO","msg":"handler: started","stream_id":"427o93ko"}
+{"time":"2025-04-18T21:05:26.903221645+05:30","level":"INFO","msg":"sender: started","stream_id":"427o93ko"}
+{"time":"2025-04-18T21:05:27.265410036+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:05:27.553497878+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:05:27.554245152+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:05:28.514258577+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.808514146,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.488163324,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.211300287}],"total_operations":3}}
+{"time":"2025-04-18T21:05:30.230503399+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:05:31.549968581+05:30","level":"INFO","msg":"stream: closing","id":"427o93ko"}
+{"time":"2025-04-18T21:05:31.550004321+05:30","level":"INFO","msg":"handler: closed","stream_id":"427o93ko"}
+{"time":"2025-04-18T21:05:31.550019941+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"427o93ko"}
+{"time":"2025-04-18T21:05:31.55003198+05:30","level":"INFO","msg":"sender: closed","stream_id":"427o93ko"}
+{"time":"2025-04-18T21:05:31.55010688+05:30","level":"INFO","msg":"stream: closed","id":"427o93ko"}

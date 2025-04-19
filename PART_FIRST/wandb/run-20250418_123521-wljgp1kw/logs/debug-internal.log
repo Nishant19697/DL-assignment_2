@@ -1,0 +1,18 @@
+{"time":"2025-04-18T12:35:21.812655415+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T12:35:21.812684634+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_123521-wljgp1kw/logs/debug-core.log"}
+{"time":"2025-04-18T12:35:22.031152206+05:30","level":"INFO","msg":"created new stream","id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:22.031242656+05:30","level":"INFO","msg":"stream: started","id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:22.031238226+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:22.031262936+05:30","level":"INFO","msg":"sender: started","stream_id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:22.031254276+05:30","level":"INFO","msg":"handler: started","stream_id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:22.673015792+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T12:35:22.81654321+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T12:35:22.817140085+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T12:35:23.801017762+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.391273283,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.017905745,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T12:35:24.472993552+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T12:35:25.772440572+05:30","level":"INFO","msg":"stream: closing","id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:25.772509182+05:30","level":"INFO","msg":"handler: closed","stream_id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:25.772540391+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:25.772568901+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-04-18T12:35:25.772575591+05:30","level":"INFO","msg":"sender: closed","stream_id":"wljgp1kw"}
+{"time":"2025-04-18T12:35:25.77266286+05:30","level":"INFO","msg":"stream: closed","id":"wljgp1kw"}

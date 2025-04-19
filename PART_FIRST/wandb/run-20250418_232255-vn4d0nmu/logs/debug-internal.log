@@ -1,0 +1,17 @@
+{"time":"2025-04-18T23:22:55.970295655+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T23:22:55.970345365+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_232255-vn4d0nmu/logs/debug-core.log"}
+{"time":"2025-04-18T23:22:56.190791053+05:30","level":"INFO","msg":"created new stream","id":"vn4d0nmu"}
+{"time":"2025-04-18T23:22:56.190858863+05:30","level":"INFO","msg":"stream: started","id":"vn4d0nmu"}
+{"time":"2025-04-18T23:22:56.190922343+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vn4d0nmu"}
+{"time":"2025-04-18T23:22:56.190939053+05:30","level":"INFO","msg":"sender: started","stream_id":"vn4d0nmu"}
+{"time":"2025-04-18T23:22:56.191040953+05:30","level":"INFO","msg":"handler: started","stream_id":"vn4d0nmu"}
+{"time":"2025-04-18T23:22:56.548931135+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:31:25.586114899+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:31:25.587057455+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:31:26.586737093+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.378950039,"progress":"245B/245B"},{"desc":"uploading config.yaml","runtime_seconds":0.084074616,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.084056396,"progress":"3.1KB/3.1KB"}],"total_operations":3}}
+{"time":"2025-04-18T23:31:27.660357344+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:31:28.948108441+05:30","level":"INFO","msg":"stream: closing","id":"vn4d0nmu"}
+{"time":"2025-04-18T23:31:28.948170601+05:30","level":"INFO","msg":"handler: closed","stream_id":"vn4d0nmu"}
+{"time":"2025-04-18T23:31:28.94819915+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vn4d0nmu"}
+{"time":"2025-04-18T23:31:28.94822092+05:30","level":"INFO","msg":"sender: closed","stream_id":"vn4d0nmu"}
+{"time":"2025-04-18T23:31:28.94838523+05:30","level":"INFO","msg":"stream: closed","id":"vn4d0nmu"}

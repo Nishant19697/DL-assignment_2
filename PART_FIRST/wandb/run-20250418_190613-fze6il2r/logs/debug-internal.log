@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:06:13.934158187+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:06:13.934176127+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190613-fze6il2r/logs/debug-core.log"}
+{"time":"2025-04-18T19:06:14.148935904+05:30","level":"INFO","msg":"created new stream","id":"fze6il2r"}
+{"time":"2025-04-18T19:06:14.149009504+05:30","level":"INFO","msg":"stream: started","id":"fze6il2r"}
+{"time":"2025-04-18T19:06:14.149034084+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fze6il2r"}
+{"time":"2025-04-18T19:06:14.149037044+05:30","level":"INFO","msg":"sender: started","stream_id":"fze6il2r"}
+{"time":"2025-04-18T19:06:14.149049174+05:30","level":"INFO","msg":"handler: started","stream_id":"fze6il2r"}
+{"time":"2025-04-18T19:06:14.457566283+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:06:14.858408474+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:06:14.859050195+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:06:15.817801046+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.986399228,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.378609997,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.151717671}],"total_operations":3}}
+{"time":"2025-04-18T19:06:18.026477338+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:06:19.420521369+05:30","level":"INFO","msg":"stream: closing","id":"fze6il2r"}
+{"time":"2025-04-18T19:06:19.420562759+05:30","level":"INFO","msg":"handler: closed","stream_id":"fze6il2r"}
+{"time":"2025-04-18T19:06:19.420572409+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fze6il2r"}
+{"time":"2025-04-18T19:06:19.420592969+05:30","level":"INFO","msg":"sender: closed","stream_id":"fze6il2r"}
+{"time":"2025-04-18T19:06:19.420629859+05:30","level":"INFO","msg":"stream: closed","id":"fze6il2r"}

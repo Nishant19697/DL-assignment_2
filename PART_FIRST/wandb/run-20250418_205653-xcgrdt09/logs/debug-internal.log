@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:56:53.626229184+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:56:53.626244994+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_205653-xcgrdt09/logs/debug-core.log"}
+{"time":"2025-04-18T20:56:53.844999357+05:30","level":"INFO","msg":"created new stream","id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:53.845101566+05:30","level":"INFO","msg":"stream: started","id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:53.845140265+05:30","level":"INFO","msg":"handler: started","stream_id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:53.845154005+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:53.845163845+05:30","level":"INFO","msg":"sender: started","stream_id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:54.238721133+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:56:54.544568022+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:56:54.545328895+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:56:55.505444024+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.528154681,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.172957062}],"total_operations":2}}
+{"time":"2025-04-18T20:56:57.329366016+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:56:58.66364059+05:30","level":"INFO","msg":"stream: closing","id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:58.663679989+05:30","level":"INFO","msg":"handler: closed","stream_id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:58.663697639+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:58.663723439+05:30","level":"INFO","msg":"sender: closed","stream_id":"xcgrdt09"}
+{"time":"2025-04-18T20:56:58.663800058+05:30","level":"INFO","msg":"stream: closed","id":"xcgrdt09"}

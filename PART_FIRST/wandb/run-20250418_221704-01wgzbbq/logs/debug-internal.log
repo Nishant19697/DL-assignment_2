@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:17:04.486027971+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:17:04.486042151+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221704-01wgzbbq/logs/debug-core.log"}
+{"time":"2025-04-18T22:17:04.695656022+05:30","level":"INFO","msg":"created new stream","id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:04.695705481+05:30","level":"INFO","msg":"stream: started","id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:04.695715571+05:30","level":"INFO","msg":"handler: started","stream_id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:04.69576906+05:30","level":"INFO","msg":"sender: started","stream_id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:04.695754471+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:05.019122474+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:17:05.229489894+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:17:05.2707793+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:17:06.190363265+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.688296972,"progress":"3.6KB/3.6KB"},{"desc":"updating run config","runtime_seconds":0.071563811}],"total_operations":2}}
+{"time":"2025-04-18T22:17:07.286813244+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:17:08.641881085+05:30","level":"INFO","msg":"stream: closing","id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:08.641915384+05:30","level":"INFO","msg":"handler: closed","stream_id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:08.641933094+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:08.641942104+05:30","level":"INFO","msg":"sender: closed","stream_id":"01wgzbbq"}
+{"time":"2025-04-18T22:17:08.642018052+05:30","level":"INFO","msg":"stream: closed","id":"01wgzbbq"}

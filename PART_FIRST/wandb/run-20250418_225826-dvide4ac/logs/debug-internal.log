@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:58:26.851234641+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:58:26.851252051+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_225826-dvide4ac/logs/debug-core.log"}
+{"time":"2025-04-18T22:58:27.069739845+05:30","level":"INFO","msg":"created new stream","id":"dvide4ac"}
+{"time":"2025-04-18T22:58:27.069819655+05:30","level":"INFO","msg":"stream: started","id":"dvide4ac"}
+{"time":"2025-04-18T22:58:27.069867744+05:30","level":"INFO","msg":"sender: started","stream_id":"dvide4ac"}
+{"time":"2025-04-18T22:58:27.069867534+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dvide4ac"}
+{"time":"2025-04-18T22:58:27.069910654+05:30","level":"INFO","msg":"handler: started","stream_id":"dvide4ac"}
+{"time":"2025-04-18T22:58:27.449310779+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:04:05.35728447+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:04:05.358482345+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:04:06.358067231+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.131567776,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.131561546,"progress":"2.6KB/2.6KB"}],"total_operations":2}}
+{"time":"2025-04-18T23:04:06.794182899+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:04:08.107635729+05:30","level":"INFO","msg":"stream: closing","id":"dvide4ac"}
+{"time":"2025-04-18T23:04:08.10767287+05:30","level":"INFO","msg":"handler: closed","stream_id":"dvide4ac"}
+{"time":"2025-04-18T23:04:08.107696361+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dvide4ac"}
+{"time":"2025-04-18T23:04:08.107741042+05:30","level":"INFO","msg":"sender: closed","stream_id":"dvide4ac"}
+{"time":"2025-04-18T23:04:08.107816354+05:30","level":"INFO","msg":"stream: closed","id":"dvide4ac"}

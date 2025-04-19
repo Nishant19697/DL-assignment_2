@@ -1,0 +1,17 @@
+{"time":"2025-04-18T23:58:09.62623617+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T23:58:09.62626865+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_235809-re02tzmq/logs/debug-core.log"}
+{"time":"2025-04-18T23:58:09.847820597+05:30","level":"INFO","msg":"created new stream","id":"re02tzmq"}
+{"time":"2025-04-18T23:58:09.847909376+05:30","level":"INFO","msg":"stream: started","id":"re02tzmq"}
+{"time":"2025-04-18T23:58:09.847956646+05:30","level":"INFO","msg":"sender: started","stream_id":"re02tzmq"}
+{"time":"2025-04-18T23:58:09.847963126+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"re02tzmq"}
+{"time":"2025-04-18T23:58:09.847982665+05:30","level":"INFO","msg":"handler: started","stream_id":"re02tzmq"}
+{"time":"2025-04-18T23:58:10.228820679+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:00:13.400141183+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:00:13.401017622+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:00:14.400511576+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.090320611,"progress":"3.0KB/3.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.090305411,"progress":"1.0KB/1.0KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:00:14.671690667+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:00:15.982373252+05:30","level":"INFO","msg":"stream: closing","id":"re02tzmq"}
+{"time":"2025-04-19T00:00:15.982415981+05:30","level":"INFO","msg":"handler: closed","stream_id":"re02tzmq"}
+{"time":"2025-04-19T00:00:15.982436471+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"re02tzmq"}
+{"time":"2025-04-19T00:00:15.982445901+05:30","level":"INFO","msg":"sender: closed","stream_id":"re02tzmq"}
+{"time":"2025-04-19T00:00:15.982537599+05:30","level":"INFO","msg":"stream: closed","id":"re02tzmq"}

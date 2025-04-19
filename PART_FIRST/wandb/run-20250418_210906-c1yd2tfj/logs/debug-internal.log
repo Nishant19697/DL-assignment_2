@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:09:06.799937587+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:09:06.799964567+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210906-c1yd2tfj/logs/debug-core.log"}
+{"time":"2025-04-18T21:09:07.012984161+05:30","level":"INFO","msg":"created new stream","id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:07.013038321+05:30","level":"INFO","msg":"stream: started","id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:07.013070721+05:30","level":"INFO","msg":"sender: started","stream_id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:07.013088631+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:07.01314236+05:30","level":"INFO","msg":"handler: started","stream_id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:07.333796327+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:09:07.619495143+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:09:07.620080548+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:09:08.580448193+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.312935541,"progress":"2.4KB/2.4KB"},{"desc":"uploading data","runtime_seconds":0.312760093},{"desc":"updating run config","runtime_seconds":0.141862221}],"total_operations":3}}
+{"time":"2025-04-18T21:09:09.703436968+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:09:11.035830708+05:30","level":"INFO","msg":"stream: closing","id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:11.035871268+05:30","level":"INFO","msg":"handler: closed","stream_id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:11.035888148+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:11.035933628+05:30","level":"INFO","msg":"sender: closed","stream_id":"c1yd2tfj"}
+{"time":"2025-04-18T21:09:11.036022587+05:30","level":"INFO","msg":"stream: closed","id":"c1yd2tfj"}

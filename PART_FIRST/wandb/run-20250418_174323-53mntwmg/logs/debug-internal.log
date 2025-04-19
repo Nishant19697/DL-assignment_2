@@ -1,0 +1,19 @@
+{"time":"2025-04-18T17:43:23.122031652+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:43:23.122050172+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_174323-53mntwmg/logs/debug-core.log"}
+{"time":"2025-04-18T17:43:23.335894041+05:30","level":"INFO","msg":"created new stream","id":"53mntwmg"}
+{"time":"2025-04-18T17:43:23.33595555+05:30","level":"INFO","msg":"stream: started","id":"53mntwmg"}
+{"time":"2025-04-18T17:43:23.336053418+05:30","level":"INFO","msg":"handler: started","stream_id":"53mntwmg"}
+{"time":"2025-04-18T17:43:23.336060408+05:30","level":"INFO","msg":"sender: started","stream_id":"53mntwmg"}
+{"time":"2025-04-18T17:43:23.336049078+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"53mntwmg"}
+{"time":"2025-04-18T17:43:23.709144048+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:45:54.385017555+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:45:54.387589863+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:45:54.711245005+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/ee22s084-indian-institute-of-technology-madras/DL_assignment_02/53mntwmg/file_stream"}
+{"time":"2025-04-18T17:45:54.711440422+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/ee22s084-indian-institute-of-technology-madras/DL_assignment_02/53mntwmg/file_stream: {\"error\":\"run DL_assignment_02/53mntwmg not found while streaming file\"}"}
+{"time":"2025-04-18T17:45:55.347281186+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.204434499,"progress":"243B/243B"}],"total_operations":1}}
+{"time":"2025-04-18T17:45:55.807897765+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:45:56.821407581+05:30","level":"INFO","msg":"stream: closing","id":"53mntwmg"}
+{"time":"2025-04-18T17:45:56.821608748+05:30","level":"INFO","msg":"handler: closed","stream_id":"53mntwmg"}
+{"time":"2025-04-18T17:45:56.821821934+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"53mntwmg"}
+{"time":"2025-04-18T17:45:56.822165179+05:30","level":"INFO","msg":"sender: closed","stream_id":"53mntwmg"}
+{"time":"2025-04-18T17:45:56.822229328+05:30","level":"INFO","msg":"stream: closed","id":"53mntwmg"}

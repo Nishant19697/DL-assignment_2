@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:01:45.564790647+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:01:45.564809057+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190145-gctwyrui/logs/debug-core.log"}
+{"time":"2025-04-18T19:01:45.777516465+05:30","level":"INFO","msg":"created new stream","id":"gctwyrui"}
+{"time":"2025-04-18T19:01:45.777567595+05:30","level":"INFO","msg":"stream: started","id":"gctwyrui"}
+{"time":"2025-04-18T19:01:45.777607754+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gctwyrui"}
+{"time":"2025-04-18T19:01:45.777631184+05:30","level":"INFO","msg":"sender: started","stream_id":"gctwyrui"}
+{"time":"2025-04-18T19:01:45.777644784+05:30","level":"INFO","msg":"handler: started","stream_id":"gctwyrui"}
+{"time":"2025-04-18T19:01:46.093793123+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:01:46.553323863+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:01:46.553886658+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:01:47.539949455+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.110776113,"progress":"24B/24B"}],"total_operations":1}}
+{"time":"2025-04-18T19:01:48.096161269+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:01:49.428387985+05:30","level":"INFO","msg":"stream: closing","id":"gctwyrui"}
+{"time":"2025-04-18T19:01:49.428423995+05:30","level":"INFO","msg":"handler: closed","stream_id":"gctwyrui"}
+{"time":"2025-04-18T19:01:49.428437165+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gctwyrui"}
+{"time":"2025-04-18T19:01:49.428481654+05:30","level":"INFO","msg":"sender: closed","stream_id":"gctwyrui"}
+{"time":"2025-04-18T19:01:49.428531154+05:30","level":"INFO","msg":"stream: closed","id":"gctwyrui"}

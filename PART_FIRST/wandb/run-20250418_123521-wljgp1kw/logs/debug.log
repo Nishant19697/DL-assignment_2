@@ -1,0 +1,59 @@
+2025-04-18 12:35:21,805 INFO    Thread-8  :2746025 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2025-04-18 12:35:21,805 INFO    Thread-8  :2746025 [wandb_setup.py:_flush():68] Configure stats pid to 2746025
+2025-04-18 12:35:21,805 INFO    Thread-8  :2746025 [wandb_setup.py:_flush():68] Loading settings from /speech/shoutrik/.config/wandb/settings
+2025-04-18 12:35:21,805 INFO    Thread-8  :2746025 [wandb_setup.py:_flush():68] Loading settings from /speech/shoutrik/torch_exp/my_own/wandb/settings
+2025-04-18 12:35:21,805 INFO    Thread-8  :2746025 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-04-18 12:35:21,806 INFO    Thread-8  :2746025 [wandb_init.py:_log_setup():528] Logging user logs to /speech/shoutrik/torch_exp/my_own/wandb/run-20250418_123521-wljgp1kw/logs/debug.log
+2025-04-18 12:35:21,806 INFO    Thread-8  :2746025 [wandb_init.py:_log_setup():529] Logging internal logs to /speech/shoutrik/torch_exp/my_own/wandb/run-20250418_123521-wljgp1kw/logs/debug-internal.log
+2025-04-18 12:35:21,806 INFO    Thread-8  :2746025 [wandb_init.py:init():644] calling init triggers
+2025-04-18 12:35:21,806 INFO    Thread-8  :2746025 [wandb_init.py:init():650] wandb.init called with sweep_config: {'activation': 'LeakyReLU', 'batch_size': 64, 'epochs': 10, 'hidden_size': 128, 'learning_rate': 0.0001, 'num_layers': 3, 'weight_decay': 0.001}
+config: {}
+2025-04-18 12:35:21,806 INFO    Thread-8  :2746025 [wandb_init.py:init():680] starting backend
+2025-04-18 12:35:21,806 INFO    Thread-8  :2746025 [wandb_init.py:init():684] sending inform_init request
+2025-04-18 12:35:21,810 INFO    Thread-8  :2746025 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-04-18 12:35:21,810 INFO    Thread-8  :2746025 [wandb_init.py:init():697] backend started and connected
+2025-04-18 12:35:21,811 INFO    Thread-8  :2746025 [wandb_run.py:_config_callback():1279] config_cb None None {'activation': 'LeakyReLU', 'batch_size': 64, 'epochs': 10, 'hidden_size': 128, 'learning_rate': 0.0001, 'num_layers': 3, 'weight_decay': 0.001}
+2025-04-18 12:35:21,814 INFO    Thread-8  :2746025 [wandb_init.py:init():790] updated telemetry
+2025-04-18 12:35:21,814 INFO    Thread-8  :2746025 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2025-04-18 12:35:22,668 INFO    Thread-8  :2746025 [wandb_init.py:init():874] starting run threads in backend
+2025-04-18 12:35:22,777 INFO    Thread-8  :2746025 [wandb_run.py:_console_start():2374] atexit reg
+2025-04-18 12:35:22,777 INFO    Thread-8  :2746025 [wandb_run.py:_redirect():2224] redirect: wrap_raw
+2025-04-18 12:35:22,777 INFO    Thread-8  :2746025 [wandb_run.py:_redirect():2289] Wrapping output streams.
+2025-04-18 12:35:22,777 INFO    Thread-8  :2746025 [wandb_run.py:_redirect():2314] Redirects installed.
+2025-04-18 12:35:22,778 INFO    Thread-8  :2746025 [wandb_init.py:init():916] run started, returning control to user process
+2025-04-18 12:35:22,800 INFO    Thread-8  :2746025 [wandb_run.py:_finish():2100] finishing run ee22s084-indian-institute-of-technology-madras/DL_assignment_02/wljgp1kw
+2025-04-18 12:35:22,800 INFO    Thread-8  :2746025 [wandb_run.py:_atexit_cleanup():2339] got exitcode: 1
+2025-04-18 12:35:22,800 INFO    Thread-8  :2746025 [wandb_run.py:_restore():2321] restore
+2025-04-18 12:35:22,800 INFO    Thread-8  :2746025 [wandb_run.py:_restore():2327] restore done
+2025-04-18 12:35:25,766 INFO    Thread-8  :2746025 [wandb_run.py:_restore():2321] restore
+2025-04-18 12:35:25,766 INFO    Thread-8  :2746025 [wandb_run.py:_restore():2327] restore done
+2025-04-18 12:35:25,766 ERROR   Thread-8  :2746025 [wandb_run.py:_atexit_cleanup():2360] Problem finishing run
+Traceback (most recent call last):
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "sweep.py", line 21, in train_wrapper
+    train_and_eval(args, logging=True)
+  File "/speech/shoutrik/torch_exp/my_own/train.py", line 40, in train_and_eval
+    activation = get_activation(args.activation)
+  File "/speech/shoutrik/torch_exp/my_own/model.py", line 6, in get_activation
+    return {
+KeyError: 'LeakyReLU'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2351, in _atexit_cleanup
+    self._on_finish()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2647, in _on_finish
+    self._backend.cleanup()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/backend/backend.py", line 213, in cleanup
+    self.interface.join()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 546, in join
+    self._router.join()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/interface/router.py", line 98, in join
+    self._thread.join()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/threading.py", line 1011, in join
+    self._wait_for_tstate_lock()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/threading.py", line 1027, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+Exception

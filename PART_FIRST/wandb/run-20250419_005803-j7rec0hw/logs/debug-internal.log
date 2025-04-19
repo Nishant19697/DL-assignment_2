@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:58:03.226641934+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:58:03.226659153+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005803-j7rec0hw/logs/debug-core.log"}
+{"time":"2025-04-19T00:58:03.444092713+05:30","level":"INFO","msg":"created new stream","id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:03.444207662+05:30","level":"INFO","msg":"stream: started","id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:03.444246081+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:03.444267881+05:30","level":"INFO","msg":"sender: started","stream_id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:03.444257911+05:30","level":"INFO","msg":"handler: started","stream_id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:03.820981972+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:58:04.063440541+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:58:04.063991593+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:58:05.024081086+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.818020684,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.437102464,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.100598388}],"total_operations":3}}
+{"time":"2025-04-19T00:58:06.849935834+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:58:08.190333069+05:30","level":"INFO","msg":"stream: closing","id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:08.190380939+05:30","level":"INFO","msg":"handler: closed","stream_id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:08.190400118+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:08.190412968+05:30","level":"INFO","msg":"sender: closed","stream_id":"j7rec0hw"}
+{"time":"2025-04-19T00:58:08.190480367+05:30","level":"INFO","msg":"stream: closed","id":"j7rec0hw"}

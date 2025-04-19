@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:53:40.23681658+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T20:53:40.236834+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_205340-2ze8v8ga/logs/debug-core.log"}
+{"time":"2025-04-18T20:53:40.453332268+05:30","level":"INFO","msg":"created new stream","id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:40.453412767+05:30","level":"INFO","msg":"stream: started","id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:40.453509546+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:40.453519356+05:30","level":"INFO","msg":"handler: started","stream_id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:40.453594845+05:30","level":"INFO","msg":"sender: started","stream_id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:40.789677058+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:53:41.092548442+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:53:41.093493213+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:53:42.053402182+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.513732478,"progress":"2.4KB/2.4KB"}],"total_operations":1}}
+{"time":"2025-04-18T20:53:43.139655584+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:53:44.449151926+05:30","level":"INFO","msg":"stream: closing","id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:44.449248075+05:30","level":"INFO","msg":"handler: closed","stream_id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:44.449277745+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:44.449429944+05:30","level":"INFO","msg":"sender: closed","stream_id":"2ze8v8ga"}
+{"time":"2025-04-18T20:53:44.449617552+05:30","level":"INFO","msg":"stream: closed","id":"2ze8v8ga"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:09:44.080474185+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:09:44.080491635+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210944-g140086s/logs/debug-core.log"}
+{"time":"2025-04-18T21:09:44.29383845+05:30","level":"INFO","msg":"created new stream","id":"g140086s"}
+{"time":"2025-04-18T21:09:44.29390246+05:30","level":"INFO","msg":"stream: started","id":"g140086s"}
+{"time":"2025-04-18T21:09:44.29391451+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g140086s"}
+{"time":"2025-04-18T21:09:44.293961649+05:30","level":"INFO","msg":"handler: started","stream_id":"g140086s"}
+{"time":"2025-04-18T21:09:44.294057639+05:30","level":"INFO","msg":"sender: started","stream_id":"g140086s"}
+{"time":"2025-04-18T21:09:44.633908984+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:09:44.942527206+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:09:44.943188701+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:09:45.902455233+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.426336324,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.204866586}],"total_operations":2}}
+{"time":"2025-04-18T21:09:46.724116617+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:09:48.026620699+05:30","level":"INFO","msg":"stream: closing","id":"g140086s"}
+{"time":"2025-04-18T21:09:48.026660359+05:30","level":"INFO","msg":"handler: closed","stream_id":"g140086s"}
+{"time":"2025-04-18T21:09:48.026675599+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g140086s"}
+{"time":"2025-04-18T21:09:48.026730228+05:30","level":"INFO","msg":"sender: closed","stream_id":"g140086s"}
+{"time":"2025-04-18T21:09:48.026799748+05:30","level":"INFO","msg":"stream: closed","id":"g140086s"}

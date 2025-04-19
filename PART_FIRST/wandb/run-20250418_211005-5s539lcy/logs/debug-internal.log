@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:10:05.543596909+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:10:05.543626979+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_211005-5s539lcy/logs/debug-core.log"}
+{"time":"2025-04-18T21:10:05.760040471+05:30","level":"INFO","msg":"created new stream","id":"5s539lcy"}
+{"time":"2025-04-18T21:10:05.760079761+05:30","level":"INFO","msg":"stream: started","id":"5s539lcy"}
+{"time":"2025-04-18T21:10:05.760118341+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5s539lcy"}
+{"time":"2025-04-18T21:10:05.760124201+05:30","level":"INFO","msg":"handler: started","stream_id":"5s539lcy"}
+{"time":"2025-04-18T21:10:05.760142581+05:30","level":"INFO","msg":"sender: started","stream_id":"5s539lcy"}
+{"time":"2025-04-18T21:10:06.078489066+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:10:06.392550437+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:10:06.393333091+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:10:07.352955751+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.217450775},{"desc":"updating run config","runtime_seconds":0.217135157},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.207656005,"progress":"2.4KB/2.4KB"}],"total_operations":3}}
+{"time":"2025-04-18T21:10:08.117136656+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:10:09.453377624+05:30","level":"INFO","msg":"stream: closing","id":"5s539lcy"}
+{"time":"2025-04-18T21:10:09.453440824+05:30","level":"INFO","msg":"handler: closed","stream_id":"5s539lcy"}
+{"time":"2025-04-18T21:10:09.453465234+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5s539lcy"}
+{"time":"2025-04-18T21:10:09.453506373+05:30","level":"INFO","msg":"sender: closed","stream_id":"5s539lcy"}
+{"time":"2025-04-18T21:10:09.453668862+05:30","level":"INFO","msg":"stream: closed","id":"5s539lcy"}

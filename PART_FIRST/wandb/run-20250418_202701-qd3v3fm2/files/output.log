@@ -1,0 +1,51 @@
+Memory used before starting :  17.760256 247.463936
+[(64, 7), (64, 5), (64, 5), (64, 3), (64, 3)]
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(1, 1), padding=(3, 3))
+    (act1): ReLU()
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(64, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act2): ReLU()
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(64, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act3): ReLU()
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act4): ReLU()
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act5): ReLU()
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=3136, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.3, inplace=False)
+    (4): Linear(in_features=512, out_features=10, bias=True)
+  )
+)
+Number of parameters: 1900554
+Memory used :  25.369088 247.463936
+Epoch 1 peak memory used: 2434.67 MB
+Epoch 1/10 | Train Loss: 2.1479 | Val Loss: 2.1328 | Val Acc: 23.80%
+Epoch 2 peak memory used: 2434.67 MB
+Epoch 2/10 | Train Loss: 2.0270 | Val Loss: 2.0015 | Val Acc: 30.95%
+Epoch 3 peak memory used: 2434.67 MB
+Epoch 3/10 | Train Loss: 1.9675 | Val Loss: 2.0153 | Val Acc: 29.80%
+Epoch 4 peak memory used: 2434.67 MB
+Epoch 4/10 | Train Loss: 1.9159 | Val Loss: 1.9453 | Val Acc: 34.90%
+Epoch 5 peak memory used: 2434.67 MB
+Epoch 5/10 | Train Loss: 1.8694 | Val Loss: 1.9505 | Val Acc: 34.70%
+Epoch 6 peak memory used: 2434.67 MB
+Epoch 6/10 | Train Loss: 1.8253 | Val Loss: 1.9276 | Val Acc: 36.50%
+Epoch 7 peak memory used: 2434.67 MB
+Epoch 7/10 | Train Loss: 1.7951 | Val Loss: 1.9089 | Val Acc: 37.05%
+Epoch 8 peak memory used: 2434.67 MB
+Epoch 8/10 | Train Loss: 1.7584 | Val Loss: 1.9184 | Val Acc: 35.95%
+Epoch 9 peak memory used: 2434.67 MB
+Epoch 9/10 | Train Loss: 1.7230 | Val Loss: 1.8494 | Val Acc: 39.50%
+Epoch 10 peak memory used: 2434.67 MB
+Epoch 10/10 | Train Loss: 1.6993 | Val Loss: 1.8670 | Val Acc: 37.15%
+Test Loss: 1.8415 | Test Acc: 38.40%

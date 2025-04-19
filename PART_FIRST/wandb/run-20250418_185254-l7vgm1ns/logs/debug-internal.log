@@ -1,0 +1,12 @@
+{"time":"2025-04-18T18:52:54.037474114+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T18:52:54.037494744+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_185254-l7vgm1ns/logs/debug-core.log"}
+{"time":"2025-04-18T18:52:54.252591056+05:30","level":"INFO","msg":"created new stream","id":"l7vgm1ns"}
+{"time":"2025-04-18T18:52:54.252662406+05:30","level":"INFO","msg":"stream: started","id":"l7vgm1ns"}
+{"time":"2025-04-18T18:52:54.252736965+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"l7vgm1ns"}
+{"time":"2025-04-18T18:52:54.252743355+05:30","level":"INFO","msg":"sender: started","stream_id":"l7vgm1ns"}
+{"time":"2025-04-18T18:52:54.252792345+05:30","level":"INFO","msg":"handler: started","stream_id":"l7vgm1ns"}
+{"time":"2025-04-18T18:52:54.625800585+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T18:52:59.385292816+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T18:52:59.386143758+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T18:53:00.384040357+05:30","level":"INFO","msg":"stream: closing","id":"l7vgm1ns"}
+{"time":"2025-04-18T18:53:00.384122216+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}

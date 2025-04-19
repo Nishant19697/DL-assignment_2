@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:54:44.043432865+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:54:44.043452614+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005444-t10p138d/logs/debug-core.log"}
+{"time":"2025-04-19T00:54:44.256033998+05:30","level":"INFO","msg":"created new stream","id":"t10p138d"}
+{"time":"2025-04-19T00:54:44.256092197+05:30","level":"INFO","msg":"stream: started","id":"t10p138d"}
+{"time":"2025-04-19T00:54:44.256119336+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"t10p138d"}
+{"time":"2025-04-19T00:54:44.256124016+05:30","level":"INFO","msg":"sender: started","stream_id":"t10p138d"}
+{"time":"2025-04-19T00:54:44.256128786+05:30","level":"INFO","msg":"handler: started","stream_id":"t10p138d"}
+{"time":"2025-04-19T00:54:44.559694793+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:54:47.256483208+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:54:47.257231666+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:54:48.257181769+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.420465939,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.420460459,"progress":"1.9KB/1.9KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:54:48.381292917+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:54:49.716000582+05:30","level":"INFO","msg":"stream: closing","id":"t10p138d"}
+{"time":"2025-04-19T00:54:49.716036651+05:30","level":"INFO","msg":"handler: closed","stream_id":"t10p138d"}
+{"time":"2025-04-19T00:54:49.716051391+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"t10p138d"}
+{"time":"2025-04-19T00:54:49.716075901+05:30","level":"INFO","msg":"sender: closed","stream_id":"t10p138d"}
+{"time":"2025-04-19T00:54:49.71614501+05:30","level":"INFO","msg":"stream: closed","id":"t10p138d"}

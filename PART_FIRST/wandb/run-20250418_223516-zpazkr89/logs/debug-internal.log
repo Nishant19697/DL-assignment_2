@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:35:16.375460388+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:35:16.375479478+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_223516-zpazkr89/logs/debug-core.log"}
+{"time":"2025-04-18T22:35:16.591188969+05:30","level":"INFO","msg":"created new stream","id":"zpazkr89"}
+{"time":"2025-04-18T22:35:16.59131253+05:30","level":"INFO","msg":"stream: started","id":"zpazkr89"}
+{"time":"2025-04-18T22:35:16.59136032+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zpazkr89"}
+{"time":"2025-04-18T22:35:16.59138924+05:30","level":"INFO","msg":"handler: started","stream_id":"zpazkr89"}
+{"time":"2025-04-18T22:35:16.59145033+05:30","level":"INFO","msg":"sender: started","stream_id":"zpazkr89"}
+{"time":"2025-04-18T22:35:17.113816963+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:35:17.325472769+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:35:17.326212169+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:35:18.285910501+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.669309096},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.393834302,"progress":"2.4KB/2.4KB"}],"total_operations":2}}
+{"time":"2025-04-18T22:35:19.789665707+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:35:21.118036075+05:30","level":"INFO","msg":"stream: closing","id":"zpazkr89"}
+{"time":"2025-04-18T22:35:21.118052565+05:30","level":"INFO","msg":"handler: closed","stream_id":"zpazkr89"}
+{"time":"2025-04-18T22:35:21.118060815+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zpazkr89"}
+{"time":"2025-04-18T22:35:21.118069105+05:30","level":"INFO","msg":"sender: closed","stream_id":"zpazkr89"}
+{"time":"2025-04-18T22:35:21.118109605+05:30","level":"INFO","msg":"stream: closed","id":"zpazkr89"}

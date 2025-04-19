@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:03:37.733056063+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:03:37.733073973+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190337-71hge6u1/logs/debug-core.log"}
+{"time":"2025-04-18T19:03:37.945989541+05:30","level":"INFO","msg":"created new stream","id":"71hge6u1"}
+{"time":"2025-04-18T19:03:37.94610451+05:30","level":"INFO","msg":"stream: started","id":"71hge6u1"}
+{"time":"2025-04-18T19:03:37.946183579+05:30","level":"INFO","msg":"handler: started","stream_id":"71hge6u1"}
+{"time":"2025-04-18T19:03:37.946218609+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"71hge6u1"}
+{"time":"2025-04-18T19:03:37.946289448+05:30","level":"INFO","msg":"sender: started","stream_id":"71hge6u1"}
+{"time":"2025-04-18T19:03:38.299557704+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:03:38.603417822+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:03:38.603912027+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:03:39.564211614+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.536968017},{"desc":"updating run metadata","runtime_seconds":0.408548418}],"total_operations":2}}
+{"time":"2025-04-18T19:03:40.791359713+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:03:42.111853286+05:30","level":"INFO","msg":"stream: closing","id":"71hge6u1"}
+{"time":"2025-04-18T19:03:42.111897466+05:30","level":"INFO","msg":"handler: closed","stream_id":"71hge6u1"}
+{"time":"2025-04-18T19:03:42.111912766+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"71hge6u1"}
+{"time":"2025-04-18T19:03:42.111940836+05:30","level":"INFO","msg":"sender: closed","stream_id":"71hge6u1"}
+{"time":"2025-04-18T19:03:42.112004215+05:30","level":"INFO","msg":"stream: closed","id":"71hge6u1"}

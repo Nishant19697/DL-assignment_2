@@ -1,0 +1,18 @@
+{"time":"2025-04-18T17:24:15.351633175+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:24:15.351747771+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_172415-otgt25gd/logs/debug-core.log"}
+{"time":"2025-04-18T17:24:15.57649505+05:30","level":"INFO","msg":"created new stream","id":"otgt25gd"}
+{"time":"2025-04-18T17:24:15.576630694+05:30","level":"INFO","msg":"stream: started","id":"otgt25gd"}
+{"time":"2025-04-18T17:24:15.576674043+05:30","level":"INFO","msg":"sender: started","stream_id":"otgt25gd"}
+{"time":"2025-04-18T17:24:15.576673933+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"otgt25gd"}
+{"time":"2025-04-18T17:24:15.576760729+05:30","level":"INFO","msg":"handler: started","stream_id":"otgt25gd"}
+{"time":"2025-04-18T17:24:15.911189604+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:24:16.197582397+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:24:16.198948994+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:24:17.165802955+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.331258733,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.078750109,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-04-18T17:24:17.899180098+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:24:18.209996692+05:30","level":"INFO","msg":"stream: closing","id":"otgt25gd"}
+{"time":"2025-04-18T17:24:18.210094458+05:30","level":"INFO","msg":"handler: closed","stream_id":"otgt25gd"}
+{"time":"2025-04-18T17:24:18.210187794+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"otgt25gd"}
+{"time":"2025-04-18T17:24:18.210316849+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-04-18T17:24:18.210461543+05:30","level":"INFO","msg":"sender: closed","stream_id":"otgt25gd"}
+{"time":"2025-04-18T17:24:18.210493772+05:30","level":"INFO","msg":"stream: closed","id":"otgt25gd"}

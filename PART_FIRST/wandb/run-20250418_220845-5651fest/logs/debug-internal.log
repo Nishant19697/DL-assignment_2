@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:08:45.258412378+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:08:45.258431087+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_220845-5651fest/logs/debug-core.log"}
+{"time":"2025-04-18T22:08:45.472311957+05:30","level":"INFO","msg":"created new stream","id":"5651fest"}
+{"time":"2025-04-18T22:08:45.472369356+05:30","level":"INFO","msg":"stream: started","id":"5651fest"}
+{"time":"2025-04-18T22:08:45.472424575+05:30","level":"INFO","msg":"sender: started","stream_id":"5651fest"}
+{"time":"2025-04-18T22:08:45.472421685+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5651fest"}
+{"time":"2025-04-18T22:08:45.472429415+05:30","level":"INFO","msg":"handler: started","stream_id":"5651fest"}
+{"time":"2025-04-18T22:08:45.820850648+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:10:43.252341055+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:10:43.253336167+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:10:44.252880253+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.314180282,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.030750417,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.030716278,"progress":"2.5KB/2.5KB"}],"total_operations":3}}
+{"time":"2025-04-18T22:10:44.658060048+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:10:46.005569492+05:30","level":"INFO","msg":"stream: closing","id":"5651fest"}
+{"time":"2025-04-18T22:10:46.005614542+05:30","level":"INFO","msg":"handler: closed","stream_id":"5651fest"}
+{"time":"2025-04-18T22:10:46.005638491+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5651fest"}
+{"time":"2025-04-18T22:10:46.00567537+05:30","level":"INFO","msg":"sender: closed","stream_id":"5651fest"}
+{"time":"2025-04-18T22:10:46.005772029+05:30","level":"INFO","msg":"stream: closed","id":"5651fest"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:59:13.809426912+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:59:13.809444572+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005913-ppi7jw63/logs/debug-core.log"}
+{"time":"2025-04-19T00:59:14.026133431+05:30","level":"INFO","msg":"created new stream","id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:14.02621789+05:30","level":"INFO","msg":"stream: started","id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:14.02626379+05:30","level":"INFO","msg":"handler: started","stream_id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:14.02628426+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:14.026340779+05:30","level":"INFO","msg":"sender: started","stream_id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:14.350449952+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:59:14.626454713+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:59:14.627252853+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:59:15.586877437+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.499974994},{"desc":"updating run config","runtime_seconds":0.18682581}],"total_operations":2}}
+{"time":"2025-04-19T00:59:16.562708414+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:59:17.912078255+05:30","level":"INFO","msg":"stream: closing","id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:17.912129444+05:30","level":"INFO","msg":"handler: closed","stream_id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:17.912152034+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:17.912167454+05:30","level":"INFO","msg":"sender: closed","stream_id":"ppi7jw63"}
+{"time":"2025-04-19T00:59:17.912270802+05:30","level":"INFO","msg":"stream: closed","id":"ppi7jw63"}

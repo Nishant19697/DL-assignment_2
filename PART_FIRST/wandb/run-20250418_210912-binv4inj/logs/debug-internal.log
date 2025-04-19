@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:09:12.773772678+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:09:12.773802078+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210912-binv4inj/logs/debug-core.log"}
+{"time":"2025-04-18T21:09:12.997053609+05:30","level":"INFO","msg":"created new stream","id":"binv4inj"}
+{"time":"2025-04-18T21:09:12.997175688+05:30","level":"INFO","msg":"stream: started","id":"binv4inj"}
+{"time":"2025-04-18T21:09:12.997207437+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"binv4inj"}
+{"time":"2025-04-18T21:09:12.997225067+05:30","level":"INFO","msg":"handler: started","stream_id":"binv4inj"}
+{"time":"2025-04-18T21:09:12.997262107+05:30","level":"INFO","msg":"sender: started","stream_id":"binv4inj"}
+{"time":"2025-04-18T21:09:13.339896634+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:09:13.595531658+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:09:13.596416161+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:09:14.555895786+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.420214918,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.093288261}],"total_operations":2}}
+{"time":"2025-04-18T21:09:15.502009982+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:09:16.821098876+05:30","level":"INFO","msg":"stream: closing","id":"binv4inj"}
+{"time":"2025-04-18T21:09:16.821127806+05:30","level":"INFO","msg":"handler: closed","stream_id":"binv4inj"}
+{"time":"2025-04-18T21:09:16.821138416+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"binv4inj"}
+{"time":"2025-04-18T21:09:16.821195555+05:30","level":"INFO","msg":"sender: closed","stream_id":"binv4inj"}
+{"time":"2025-04-18T21:09:16.821251295+05:30","level":"INFO","msg":"stream: closed","id":"binv4inj"}

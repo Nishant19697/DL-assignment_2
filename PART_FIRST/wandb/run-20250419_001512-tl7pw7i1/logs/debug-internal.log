@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:15:12.486951187+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:15:12.486983398+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_001512-tl7pw7i1/logs/debug-core.log"}
+{"time":"2025-04-19T00:15:12.705457934+05:30","level":"INFO","msg":"created new stream","id":"tl7pw7i1"}
+{"time":"2025-04-19T00:15:12.705550155+05:30","level":"INFO","msg":"stream: started","id":"tl7pw7i1"}
+{"time":"2025-04-19T00:15:12.705594035+05:30","level":"INFO","msg":"handler: started","stream_id":"tl7pw7i1"}
+{"time":"2025-04-19T00:15:12.705596875+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tl7pw7i1"}
+{"time":"2025-04-19T00:15:12.705637006+05:30","level":"INFO","msg":"sender: started","stream_id":"tl7pw7i1"}
+{"time":"2025-04-19T00:15:13.088275745+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:17:58.726343493+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:17:58.727062526+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:17:59.726945529+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.052280557,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.052267997,"progress":"3.0KB/3.0KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:18:00.631380375+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:18:01.933868545+05:30","level":"INFO","msg":"stream: closing","id":"tl7pw7i1"}
+{"time":"2025-04-19T00:18:01.933904986+05:30","level":"INFO","msg":"handler: closed","stream_id":"tl7pw7i1"}
+{"time":"2025-04-19T00:18:01.933918886+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tl7pw7i1"}
+{"time":"2025-04-19T00:18:01.933968456+05:30","level":"INFO","msg":"sender: closed","stream_id":"tl7pw7i1"}
+{"time":"2025-04-19T00:18:01.934040496+05:30","level":"INFO","msg":"stream: closed","id":"tl7pw7i1"}

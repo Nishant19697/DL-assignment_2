@@ -1,0 +1,17 @@
+{"time":"2025-04-18T17:34:29.298520228+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:34:29.298541527+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173429-rw85mp55/logs/debug-core.log"}
+{"time":"2025-04-18T17:34:29.616733619+05:30","level":"INFO","msg":"created new stream","id":"rw85mp55"}
+{"time":"2025-04-18T17:34:29.616803837+05:30","level":"INFO","msg":"stream: started","id":"rw85mp55"}
+{"time":"2025-04-18T17:34:29.616853306+05:30","level":"INFO","msg":"handler: started","stream_id":"rw85mp55"}
+{"time":"2025-04-18T17:34:29.616871396+05:30","level":"INFO","msg":"sender: started","stream_id":"rw85mp55"}
+{"time":"2025-04-18T17:34:29.616873746+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rw85mp55"}
+{"time":"2025-04-18T17:34:29.986089538+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:34:30.530636763+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:34:30.531765499+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:34:31.493583186+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.039836778}],"total_operations":1}}
+{"time":"2025-04-18T17:34:32.48629615+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:34:33.802036073+05:30","level":"INFO","msg":"stream: closing","id":"rw85mp55"}
+{"time":"2025-04-18T17:34:33.802088762+05:30","level":"INFO","msg":"handler: closed","stream_id":"rw85mp55"}
+{"time":"2025-04-18T17:34:33.802111452+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rw85mp55"}
+{"time":"2025-04-18T17:34:33.802143051+05:30","level":"INFO","msg":"sender: closed","stream_id":"rw85mp55"}
+{"time":"2025-04-18T17:34:33.802233769+05:30","level":"INFO","msg":"stream: closed","id":"rw85mp55"}

@@ -1,0 +1,17 @@
+{"time":"2025-04-18T23:31:32.821281416+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T23:31:32.821310696+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_233132-d9upmgfm/logs/debug-core.log"}
+{"time":"2025-04-18T23:31:33.036337959+05:30","level":"INFO","msg":"created new stream","id":"d9upmgfm"}
+{"time":"2025-04-18T23:31:33.036383079+05:30","level":"INFO","msg":"handler: started","stream_id":"d9upmgfm"}
+{"time":"2025-04-18T23:31:33.036435059+05:30","level":"INFO","msg":"sender: started","stream_id":"d9upmgfm"}
+{"time":"2025-04-18T23:31:33.036441569+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"d9upmgfm"}
+{"time":"2025-04-18T23:31:33.036457159+05:30","level":"INFO","msg":"stream: started","id":"d9upmgfm"}
+{"time":"2025-04-18T23:31:33.372523808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T23:39:14.299471232+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T23:39:14.300714644+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T23:39:15.299998128+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.413223747,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.10932444,"progress":"1.0KB/1.0KB"},{"desc":"uploading output.log","runtime_seconds":0.109311841,"progress":"3.6KB/3.6KB"}],"total_operations":3}}
+{"time":"2025-04-18T23:39:15.756221303+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T23:39:17.12320363+05:30","level":"INFO","msg":"stream: closing","id":"d9upmgfm"}
+{"time":"2025-04-18T23:39:17.123228179+05:30","level":"INFO","msg":"handler: closed","stream_id":"d9upmgfm"}
+{"time":"2025-04-18T23:39:17.123240519+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"d9upmgfm"}
+{"time":"2025-04-18T23:39:17.123296237+05:30","level":"INFO","msg":"sender: closed","stream_id":"d9upmgfm"}
+{"time":"2025-04-18T23:39:17.123388533+05:30","level":"INFO","msg":"stream: closed","id":"d9upmgfm"}

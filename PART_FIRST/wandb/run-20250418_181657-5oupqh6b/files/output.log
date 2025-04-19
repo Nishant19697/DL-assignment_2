@@ -1,0 +1,58 @@
+[(512, 5), (256, 5), (128, 5), (64, 5), (32, 5)]
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 512, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act1): ReLU()
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(512, 256, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act2): ReLU()
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(256, 128, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act3): ReLU()
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(128, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act4): ReLU()
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(64, 32, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act5): ReLU()
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=1568, out_features=1024, bias=True)
+    (1): BatchNorm1d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=1024, out_features=10, bias=True)
+  )
+)
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.70it/s]
+Epoch 1/15 | Train Loss: 2.3221 | Val Loss: 2.3753 | Val Acc: 15.90%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.67it/s]
+Epoch 2/15 | Train Loss: 2.1939 | Val Loss: 2.1033 | Val Acc: 26.05%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:47<00:00,  2.65it/s]
+Epoch 3/15 | Train Loss: 2.1330 | Val Loss: 2.1045 | Val Acc: 29.10%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.67it/s]
+Epoch 4/15 | Train Loss: 2.0955 | Val Loss: 2.0824 | Val Acc: 28.50%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:47<00:00,  2.65it/s]
+Epoch 5/15 | Train Loss: 2.0580 | Val Loss: 2.1159 | Val Acc: 26.40%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.66it/s]
+Epoch 6/15 | Train Loss: 2.0222 | Val Loss: 2.0314 | Val Acc: 30.90%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.67it/s]
+Epoch 7/15 | Train Loss: 1.9992 | Val Loss: 2.0504 | Val Acc: 31.05%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.69it/s]
+Epoch 8/15 | Train Loss: 1.9692 | Val Loss: 2.0548 | Val Acc: 31.55%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.66it/s]
+Epoch 9/15 | Train Loss: 1.9409 | Val Loss: 1.9776 | Val Acc: 34.10%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.68it/s]
+Epoch 10/15 | Train Loss: 1.9156 | Val Loss: 2.0063 | Val Acc: 32.35%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.68it/s]
+Epoch 11/15 | Train Loss: 1.9040 | Val Loss: 1.9647 | Val Acc: 34.05%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.67it/s]
+Epoch 12/15 | Train Loss: 1.8837 | Val Loss: 2.0378 | Val Acc: 31.70%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.68it/s]
+Epoch 13/15 | Train Loss: 1.8607 | Val Loss: 2.0006 | Val Acc: 33.85%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.68it/s]
+Epoch 14/15 | Train Loss: 1.8338 | Val Loss: 1.9941 | Val Acc: 35.10%
+100%|███████████████████████████████████████████████████████████████████████████████| 125/125 [00:46<00:00,  2.69it/s]
+Epoch 15/15 | Train Loss: 1.8123 | Val Loss: 1.9401 | Val Acc: 34.90%
+Test Loss: 1.9175 | Test Acc: 36.45%

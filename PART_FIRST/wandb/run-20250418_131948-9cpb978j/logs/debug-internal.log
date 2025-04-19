@@ -1,0 +1,17 @@
+{"time":"2025-04-18T13:19:48.898759466+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T13:19:48.898789446+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_131948-9cpb978j/logs/debug-core.log"}
+{"time":"2025-04-18T13:19:49.116764756+05:30","level":"INFO","msg":"created new stream","id":"9cpb978j"}
+{"time":"2025-04-18T13:19:49.116847584+05:30","level":"INFO","msg":"stream: started","id":"9cpb978j"}
+{"time":"2025-04-18T13:19:49.116886794+05:30","level":"INFO","msg":"sender: started","stream_id":"9cpb978j"}
+{"time":"2025-04-18T13:19:49.116886814+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9cpb978j"}
+{"time":"2025-04-18T13:19:49.116979652+05:30","level":"INFO","msg":"handler: started","stream_id":"9cpb978j"}
+{"time":"2025-04-18T13:19:49.507720234+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T13:19:49.656576208+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T13:19:49.657219298+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T13:19:50.644265341+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.70538476,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.382860518,"progress":"2.4KB/2.4KB"},{"desc":"uploading data","runtime_seconds":0.382642402},{"desc":"updating run config","runtime_seconds":0.377617552},{"desc":"uploading wandb-summary.json","runtime_seconds":0.050632462,"progress":"24B/24B"}],"total_operations":5}}
+{"time":"2025-04-18T13:19:51.804426163+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T13:19:53.106805878+05:30","level":"INFO","msg":"stream: closing","id":"9cpb978j"}
+{"time":"2025-04-18T13:19:53.106826888+05:30","level":"INFO","msg":"handler: closed","stream_id":"9cpb978j"}
+{"time":"2025-04-18T13:19:53.106834388+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9cpb978j"}
+{"time":"2025-04-18T13:19:53.106874447+05:30","level":"INFO","msg":"sender: closed","stream_id":"9cpb978j"}
+{"time":"2025-04-18T13:19:53.106908267+05:30","level":"INFO","msg":"stream: closed","id":"9cpb978j"}

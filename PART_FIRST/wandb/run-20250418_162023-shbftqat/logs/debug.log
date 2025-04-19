@@ -1,0 +1,30 @@
+2025-04-18 16:20:23,198 INFO    Thread-2  :3412271 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2025-04-18 16:20:23,199 INFO    Thread-2  :3412271 [wandb_setup.py:_flush():68] Configure stats pid to 3412271
+2025-04-18 16:20:23,199 INFO    Thread-2  :3412271 [wandb_setup.py:_flush():68] Loading settings from /speech/shoutrik/.config/wandb/settings
+2025-04-18 16:20:23,199 INFO    Thread-2  :3412271 [wandb_setup.py:_flush():68] Loading settings from /speech/shoutrik/torch_exp/my_own/wandb/settings
+2025-04-18 16:20:23,199 INFO    Thread-2  :3412271 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-04-18 16:20:23,199 INFO    Thread-2  :3412271 [wandb_init.py:_log_setup():528] Logging user logs to /speech/shoutrik/torch_exp/my_own/wandb/run-20250418_162023-shbftqat/logs/debug.log
+2025-04-18 16:20:23,199 INFO    Thread-2  :3412271 [wandb_init.py:_log_setup():529] Logging internal logs to /speech/shoutrik/torch_exp/my_own/wandb/run-20250418_162023-shbftqat/logs/debug-internal.log
+2025-04-18 16:20:23,200 INFO    Thread-2  :3412271 [wandb_init.py:init():644] calling init triggers
+2025-04-18 16:20:23,200 INFO    Thread-2  :3412271 [wandb_init.py:init():650] wandb.init called with sweep_config: {'activation': 'SiLU', 'batch_norm': False, 'batch_size': 256, 'dropout_prob': 0.3, 'epochs': 20, 'hidden_size': 512, 'learning_rate': 0.001, 'num_layers': 5, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'default'}
+config: {}
+2025-04-18 16:20:23,200 INFO    Thread-2  :3412271 [wandb_init.py:init():680] starting backend
+2025-04-18 16:20:23,200 INFO    Thread-2  :3412271 [wandb_init.py:init():684] sending inform_init request
+2025-04-18 16:20:23,263 INFO    Thread-2  :3412271 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-04-18 16:20:23,265 INFO    Thread-2  :3412271 [wandb_init.py:init():697] backend started and connected
+2025-04-18 16:20:23,267 INFO    Thread-2  :3412271 [wandb_run.py:_config_callback():1279] config_cb None None {'activation': 'SiLU', 'batch_norm': False, 'batch_size': 256, 'dropout_prob': 0.3, 'epochs': 20, 'hidden_size': 512, 'learning_rate': 0.001, 'num_layers': 5, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'default'}
+2025-04-18 16:20:23,272 INFO    Thread-2  :3412271 [wandb_init.py:init():790] updated telemetry
+2025-04-18 16:20:23,274 INFO    Thread-2  :3412271 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2025-04-18 16:20:23,868 INFO    Thread-2  :3412271 [wandb_init.py:init():874] starting run threads in backend
+2025-04-18 16:20:24,015 INFO    Thread-2  :3412271 [wandb_run.py:_console_start():2374] atexit reg
+2025-04-18 16:20:24,015 INFO    Thread-2  :3412271 [wandb_run.py:_redirect():2224] redirect: wrap_raw
+2025-04-18 16:20:24,015 INFO    Thread-2  :3412271 [wandb_run.py:_redirect():2289] Wrapping output streams.
+2025-04-18 16:20:24,015 INFO    Thread-2  :3412271 [wandb_run.py:_redirect():2314] Redirects installed.
+2025-04-18 16:20:24,020 INFO    Thread-2  :3412271 [wandb_init.py:init():916] run started, returning control to user process
+2025-04-18 16:24:30,056 INFO    Thread-2  :3412271 [wandb_run.py:_finish():2100] finishing run ee22s084-indian-institute-of-technology-madras/DL_assignment_02/shbftqat
+2025-04-18 16:24:30,056 INFO    Thread-2  :3412271 [wandb_run.py:_atexit_cleanup():2339] got exitcode: 1
+2025-04-18 16:24:30,057 INFO    Thread-2  :3412271 [wandb_run.py:_restore():2321] restore
+2025-04-18 16:24:30,057 INFO    Thread-2  :3412271 [wandb_run.py:_restore():2327] restore done
+2025-04-18 16:24:32,605 INFO    Thread-2  :3412271 [wandb_run.py:_footer_history_summary_info():3892] rendering history
+2025-04-18 16:24:32,606 INFO    Thread-2  :3412271 [wandb_run.py:_footer_history_summary_info():3924] rendering summary
+2025-04-18 16:24:32,617 INFO    Thread-2  :3412271 [wandb_run.py:_footer_sync_info():3853] logging synced files

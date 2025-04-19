@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:58:19.141632454+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:58:19.141648113+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_005819-mljolk9v/logs/debug-core.log"}
+{"time":"2025-04-19T00:58:19.354162509+05:30","level":"INFO","msg":"created new stream","id":"mljolk9v"}
+{"time":"2025-04-19T00:58:19.354221278+05:30","level":"INFO","msg":"stream: started","id":"mljolk9v"}
+{"time":"2025-04-19T00:58:19.354247728+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mljolk9v"}
+{"time":"2025-04-19T00:58:19.354275068+05:30","level":"INFO","msg":"handler: started","stream_id":"mljolk9v"}
+{"time":"2025-04-19T00:58:19.354331297+05:30","level":"INFO","msg":"sender: started","stream_id":"mljolk9v"}
+{"time":"2025-04-19T00:58:19.67086061+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:58:20.044978639+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:58:20.04568089+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:58:21.046101362+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.933622667,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.648717647,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.227712219}],"total_operations":3}}
+{"time":"2025-04-19T00:58:21.974634983+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:58:23.32419964+05:30","level":"INFO","msg":"stream: closing","id":"mljolk9v"}
+{"time":"2025-04-19T00:58:23.32422722+05:30","level":"INFO","msg":"handler: closed","stream_id":"mljolk9v"}
+{"time":"2025-04-19T00:58:23.32423957+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mljolk9v"}
+{"time":"2025-04-19T00:58:23.324274189+05:30","level":"INFO","msg":"sender: closed","stream_id":"mljolk9v"}
+{"time":"2025-04-19T00:58:23.324349838+05:30","level":"INFO","msg":"stream: closed","id":"mljolk9v"}

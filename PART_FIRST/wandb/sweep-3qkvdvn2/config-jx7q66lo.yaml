@@ -1,0 +1,16 @@
+wandb_version: 1
+
+activation:
+  value: ReLU
+batch_size:
+  value: 256
+epochs:
+  value: 20
+hidden_size:
+  value: 512
+learning_rate:
+  value: 0.0001
+num_layers:
+  value: 5
+weight_decay:
+  value: 5.0e-05

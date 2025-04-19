@@ -1,0 +1,17 @@
+{"time":"2025-04-19T00:00:48.560603644+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-19T00:00:48.560633943+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250419_000048-04um0r45/logs/debug-core.log"}
+{"time":"2025-04-19T00:00:48.781251482+05:30","level":"INFO","msg":"created new stream","id":"04um0r45"}
+{"time":"2025-04-19T00:00:48.781346911+05:30","level":"INFO","msg":"stream: started","id":"04um0r45"}
+{"time":"2025-04-19T00:00:48.781368261+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"04um0r45"}
+{"time":"2025-04-19T00:00:48.781383271+05:30","level":"INFO","msg":"sender: started","stream_id":"04um0r45"}
+{"time":"2025-04-19T00:00:48.78142192+05:30","level":"INFO","msg":"handler: started","stream_id":"04um0r45"}
+{"time":"2025-04-19T00:00:49.175524651+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T00:03:36.024385365+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T00:03:36.025248895+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T00:03:37.025182558+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.066269883,"progress":"3.0KB/3.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.066249464,"progress":"1.0KB/1.0KB"}],"total_operations":2}}
+{"time":"2025-04-19T00:03:37.518845653+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T00:03:38.862135226+05:30","level":"INFO","msg":"stream: closing","id":"04um0r45"}
+{"time":"2025-04-19T00:03:38.862186705+05:30","level":"INFO","msg":"handler: closed","stream_id":"04um0r45"}
+{"time":"2025-04-19T00:03:38.862212655+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"04um0r45"}
+{"time":"2025-04-19T00:03:38.862229465+05:30","level":"INFO","msg":"sender: closed","stream_id":"04um0r45"}
+{"time":"2025-04-19T00:03:38.862374843+05:30","level":"INFO","msg":"stream: closed","id":"04um0r45"}

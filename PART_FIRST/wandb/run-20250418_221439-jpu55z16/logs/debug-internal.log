@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:14:39.040478984+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:14:39.040509874+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221439-jpu55z16/logs/debug-core.log"}
+{"time":"2025-04-18T22:14:39.257143017+05:30","level":"INFO","msg":"created new stream","id":"jpu55z16"}
+{"time":"2025-04-18T22:14:39.257231845+05:30","level":"INFO","msg":"stream: started","id":"jpu55z16"}
+{"time":"2025-04-18T22:14:39.257268865+05:30","level":"INFO","msg":"handler: started","stream_id":"jpu55z16"}
+{"time":"2025-04-18T22:14:39.257342713+05:30","level":"INFO","msg":"sender: started","stream_id":"jpu55z16"}
+{"time":"2025-04-18T22:14:39.257283324+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jpu55z16"}
+{"time":"2025-04-18T22:14:39.62788073+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:14:39.940441967+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:14:39.941084246+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:14:40.900701055+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.567337424,"progress":"2.4KB/2.4KB"},{"desc":"updating run metadata","runtime_seconds":0.507723912}],"total_operations":2}}
+{"time":"2025-04-18T22:14:42.558988422+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:14:43.890949099+05:30","level":"INFO","msg":"stream: closing","id":"jpu55z16"}
+{"time":"2025-04-18T22:14:43.890977798+05:30","level":"INFO","msg":"handler: closed","stream_id":"jpu55z16"}
+{"time":"2025-04-18T22:14:43.890991018+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jpu55z16"}
+{"time":"2025-04-18T22:14:43.891005718+05:30","level":"INFO","msg":"sender: closed","stream_id":"jpu55z16"}
+{"time":"2025-04-18T22:14:43.891071587+05:30","level":"INFO","msg":"stream: closed","id":"jpu55z16"}

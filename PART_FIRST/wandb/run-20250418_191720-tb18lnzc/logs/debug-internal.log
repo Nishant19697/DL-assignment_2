@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:17:20.724831696+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:17:20.724847176+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_191720-tb18lnzc/logs/debug-core.log"}
+{"time":"2025-04-18T19:17:20.942427087+05:30","level":"INFO","msg":"created new stream","id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:20.942509367+05:30","level":"INFO","msg":"stream: started","id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:20.942542257+05:30","level":"INFO","msg":"handler: started","stream_id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:20.942557047+05:30","level":"INFO","msg":"sender: started","stream_id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:20.942589927+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:21.27401712+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:17:21.607473663+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:17:21.608182149+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:17:22.568671457+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.923973842,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.529367796,"progress":"2.4KB/2.4KB"},{"desc":"updating run config","runtime_seconds":0.134106945}],"total_operations":3}}
+{"time":"2025-04-18T19:17:24.324968207+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:17:25.731917982+05:30","level":"INFO","msg":"stream: closing","id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:25.731957042+05:30","level":"INFO","msg":"handler: closed","stream_id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:25.731971522+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:25.731989721+05:30","level":"INFO","msg":"sender: closed","stream_id":"tb18lnzc"}
+{"time":"2025-04-18T19:17:25.732060051+05:30","level":"INFO","msg":"stream: closed","id":"tb18lnzc"}

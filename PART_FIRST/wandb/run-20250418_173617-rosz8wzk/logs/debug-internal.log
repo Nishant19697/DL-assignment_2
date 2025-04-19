@@ -1,0 +1,17 @@
+{"time":"2025-04-18T17:36:17.85090902+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T17:36:17.850972269+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173617-rosz8wzk/logs/debug-core.log"}
+{"time":"2025-04-18T17:36:18.078981935+05:30","level":"INFO","msg":"created new stream","id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:18.079028464+05:30","level":"INFO","msg":"stream: started","id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:18.079059943+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:18.079091322+05:30","level":"INFO","msg":"handler: started","stream_id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:18.079648181+05:30","level":"INFO","msg":"sender: started","stream_id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:18.449278156+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:36:18.812540112+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:36:18.81315389+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:36:19.780005126+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.687530549,"progress":"3.6KB/3.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.502051378,"progress":"2.4KB/2.4KB"},{"desc":"updating run metadata","runtime_seconds":0.295013208}],"total_operations":3}}
+{"time":"2025-04-18T17:36:21.199147707+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:36:22.550523808+05:30","level":"INFO","msg":"stream: closing","id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:22.550567627+05:30","level":"INFO","msg":"handler: closed","stream_id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:22.550583007+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:22.550640406+05:30","level":"INFO","msg":"sender: closed","stream_id":"rosz8wzk"}
+{"time":"2025-04-18T17:36:22.550688045+05:30","level":"INFO","msg":"stream: closed","id":"rosz8wzk"}

@@ -1,0 +1,48 @@
+[(64, 7), (64, 5), (64, 5), (64, 3), (64, 3)]
+Cnet(
+  (feature_extractor): Sequential(
+    (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(1, 1), padding=(3, 3))
+    (act1): GELU(approximate='none')
+    (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(64, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act2): GELU(approximate='none')
+    (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(64, 64, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (act3): GELU(approximate='none')
+    (pool3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act4): GELU(approximate='none')
+    (pool4): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv5): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (act5): GELU(approximate='none')
+    (pool5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (classifier): Sequential(
+    (0): Linear(in_features=3136, out_features=512, bias=True)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): GELU(approximate='none')
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=512, out_features=10, bias=True)
+  )
+)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.13it/s]
+Epoch 1/10 | Train Loss: 2.2340 | Val Loss: 2.3378 | Val Acc: 21.40%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.06it/s]
+Epoch 2/10 | Train Loss: 2.0940 | Val Loss: 2.0688 | Val Acc: 28.95%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.10it/s]
+Epoch 3/10 | Train Loss: 2.0260 | Val Loss: 2.1155 | Val Acc: 28.00%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  3.12it/s]
+Epoch 4/10 | Train Loss: 1.9836 | Val Loss: 2.0347 | Val Acc: 30.10%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:11<00:00,  2.77it/s]
+Epoch 5/10 | Train Loss: 1.9652 | Val Loss: 2.0575 | Val Acc: 27.90%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:11<00:00,  2.70it/s]
+Epoch 6/10 | Train Loss: 1.9353 | Val Loss: 2.0330 | Val Acc: 30.60%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:11<00:00,  2.90it/s]
+Epoch 7/10 | Train Loss: 1.9009 | Val Loss: 1.9579 | Val Acc: 31.90%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:11<00:00,  2.77it/s]
+Epoch 8/10 | Train Loss: 1.8801 | Val Loss: 1.9475 | Val Acc: 35.15%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  2.93it/s]
+Epoch 9/10 | Train Loss: 1.8561 | Val Loss: 1.9582 | Val Acc: 33.45%
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:10<00:00,  2.95it/s]
+Epoch 10/10 | Train Loss: 1.8304 | Val Loss: 1.9849 | Val Acc: 32.60%
+Test Loss: 1.9495 | Test Acc: 34.70%

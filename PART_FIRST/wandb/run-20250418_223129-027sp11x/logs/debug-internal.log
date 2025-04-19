@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:31:29.424476112+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:31:29.424504903+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_223129-027sp11x/logs/debug-core.log"}
+{"time":"2025-04-18T22:31:29.640354622+05:30","level":"INFO","msg":"created new stream","id":"027sp11x"}
+{"time":"2025-04-18T22:31:29.640411512+05:30","level":"INFO","msg":"stream: started","id":"027sp11x"}
+{"time":"2025-04-18T22:31:29.640443692+05:30","level":"INFO","msg":"handler: started","stream_id":"027sp11x"}
+{"time":"2025-04-18T22:31:29.640470092+05:30","level":"INFO","msg":"sender: started","stream_id":"027sp11x"}
+{"time":"2025-04-18T22:31:29.640472562+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"027sp11x"}
+{"time":"2025-04-18T22:31:29.954898056+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:31:30.238430242+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:31:30.238986795+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:31:31.198719931+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.810668242,"progress":"3.6KB/3.6KB"},{"desc":"updating run config","runtime_seconds":0.216348468}],"total_operations":2}}
+{"time":"2025-04-18T22:31:32.118766744+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:31:33.441095622+05:30","level":"INFO","msg":"stream: closing","id":"027sp11x"}
+{"time":"2025-04-18T22:31:33.441138962+05:30","level":"INFO","msg":"handler: closed","stream_id":"027sp11x"}
+{"time":"2025-04-18T22:31:33.441159292+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"027sp11x"}
+{"time":"2025-04-18T22:31:33.441181442+05:30","level":"INFO","msg":"sender: closed","stream_id":"027sp11x"}
+{"time":"2025-04-18T22:31:33.441268143+05:30","level":"INFO","msg":"stream: closed","id":"027sp11x"}

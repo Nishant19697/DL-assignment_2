@@ -1,0 +1,58 @@
+2025-04-18 17:33:18,352 INFO    Thread-5  :3688876 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2025-04-18 17:33:18,352 INFO    Thread-5  :3688876 [wandb_setup.py:_flush():68] Configure stats pid to 3688876
+2025-04-18 17:33:18,352 INFO    Thread-5  :3688876 [wandb_setup.py:_flush():68] Loading settings from /speech/shoutrik/.config/wandb/settings
+2025-04-18 17:33:18,352 INFO    Thread-5  :3688876 [wandb_setup.py:_flush():68] Loading settings from /speech/shoutrik/torch_exp/my_own/wandb/settings
+2025-04-18 17:33:18,352 INFO    Thread-5  :3688876 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-04-18 17:33:18,352 INFO    Thread-5  :3688876 [wandb_init.py:_log_setup():528] Logging user logs to /speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173318-ojsplgim/logs/debug.log
+2025-04-18 17:33:18,353 INFO    Thread-5  :3688876 [wandb_init.py:_log_setup():529] Logging internal logs to /speech/shoutrik/torch_exp/my_own/wandb/run-20250418_173318-ojsplgim/logs/debug-internal.log
+2025-04-18 17:33:18,353 INFO    Thread-5  :3688876 [wandb_init.py:init():644] calling init triggers
+2025-04-18 17:33:18,353 INFO    Thread-5  :3688876 [wandb_init.py:init():650] wandb.init called with sweep_config: {'batch_norm': False, 'batch_size': 128, 'conv_activation': 'GELU', 'data_aug': True, 'dense_activation': 'ReLU', 'dropout_prob': 0.5, 'epochs': 10, 'filter_size': [7, 7, 5, 3, 3], 'hidden_size': 1024, 'learning_rate': 0.0001, 'n_filter': [512, 256, 128, 64, 32], 'num_layers': 5, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'default'}
+config: {}
+2025-04-18 17:33:18,353 INFO    Thread-5  :3688876 [wandb_init.py:init():680] starting backend
+2025-04-18 17:33:18,353 INFO    Thread-5  :3688876 [wandb_init.py:init():684] sending inform_init request
+2025-04-18 17:33:18,366 INFO    Thread-5  :3688876 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-04-18 17:33:18,367 INFO    Thread-5  :3688876 [wandb_init.py:init():697] backend started and connected
+2025-04-18 17:33:18,369 INFO    Thread-5  :3688876 [wandb_run.py:_config_callback():1279] config_cb None None {'batch_norm': False, 'batch_size': 128, 'conv_activation': 'GELU', 'data_aug': True, 'dense_activation': 'ReLU', 'dropout_prob': 0.5, 'epochs': 10, 'filter_size': [7, 7, 5, 3, 3], 'hidden_size': 1024, 'learning_rate': 0.0001, 'n_filter': [512, 256, 128, 64, 32], 'num_layers': 5, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'default'}
+2025-04-18 17:33:18,375 INFO    Thread-5  :3688876 [wandb_init.py:init():790] updated telemetry
+2025-04-18 17:33:18,376 INFO    Thread-5  :3688876 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2025-04-18 17:33:18,932 INFO    Thread-5  :3688876 [wandb_init.py:init():874] starting run threads in backend
+2025-04-18 17:33:19,056 INFO    Thread-5  :3688876 [wandb_run.py:_console_start():2374] atexit reg
+2025-04-18 17:33:19,056 INFO    Thread-5  :3688876 [wandb_run.py:_redirect():2224] redirect: wrap_raw
+2025-04-18 17:33:19,056 INFO    Thread-5  :3688876 [wandb_run.py:_redirect():2289] Wrapping output streams.
+2025-04-18 17:33:19,056 INFO    Thread-5  :3688876 [wandb_run.py:_redirect():2314] Redirects installed.
+2025-04-18 17:33:19,057 INFO    Thread-5  :3688876 [wandb_init.py:init():916] run started, returning control to user process
+2025-04-18 17:33:19,084 INFO    Thread-5  :3688876 [wandb_run.py:_finish():2100] finishing run ee22s084-indian-institute-of-technology-madras/DL_assignment_02/ojsplgim
+2025-04-18 17:33:19,084 INFO    Thread-5  :3688876 [wandb_run.py:_atexit_cleanup():2339] got exitcode: 1
+2025-04-18 17:33:19,084 INFO    Thread-5  :3688876 [wandb_run.py:_restore():2321] restore
+2025-04-18 17:33:19,084 INFO    Thread-5  :3688876 [wandb_run.py:_restore():2327] restore done
+2025-04-18 17:33:20,085 INFO    Thread-5  :3688876 [wandb_run.py:_restore():2321] restore
+2025-04-18 17:33:20,085 INFO    Thread-5  :3688876 [wandb_run.py:_restore():2327] restore done
+2025-04-18 17:33:20,085 ERROR   Thread-5  :3688876 [wandb_run.py:_atexit_cleanup():2360] Problem finishing run
+Traceback (most recent call last):
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "sweep.py", line 37, in train_wrapper
+    train_and_eval(args, logging=True)
+  File "/speech/shoutrik/torch_exp/my_own/train.py", line 47, in train_and_eval
+    dropout_prob=args.dropout,
+AttributeError: 'Namespace' object has no attribute 'dropout'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2351, in _atexit_cleanup
+    self._on_finish()
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2608, in _on_finish
+    _ = exit_handle.wait(
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 279, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 122, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/threading.py", line 558, in wait
+    signaled = self._cond.wait(timeout)
+  File "/speech/shoutrik/espnet/tools/anaconda/envs/espnet/lib/python3.8/threading.py", line 306, in wait
+    gotit = waiter.acquire(True, timeout)
+Exception
+2025-04-18 17:33:20,092 WARNING MsgRouterThr:3688876 [router.py:message_loop():75] message_loop has been closed

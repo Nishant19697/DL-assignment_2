@@ -1,0 +1,17 @@
+{"time":"2025-04-18T19:00:08.585032753+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T19:00:08.585047983+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_190008-ezcta2t3/logs/debug-core.log"}
+{"time":"2025-04-18T19:00:08.800898351+05:30","level":"INFO","msg":"created new stream","id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:08.80098207+05:30","level":"INFO","msg":"stream: started","id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:08.80098456+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:08.80101629+05:30","level":"INFO","msg":"handler: started","stream_id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:08.80106185+05:30","level":"INFO","msg":"sender: started","stream_id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:09.172199682+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:00:09.522717773+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:00:09.52410902+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:00:10.483712398+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.206023918}],"total_operations":1}}
+{"time":"2025-04-18T19:00:11.241030633+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:00:12.632210805+05:30","level":"INFO","msg":"stream: closing","id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:12.632241975+05:30","level":"INFO","msg":"handler: closed","stream_id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:12.632256755+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:12.632292165+05:30","level":"INFO","msg":"sender: closed","stream_id":"ezcta2t3"}
+{"time":"2025-04-18T19:00:12.632378014+05:30","level":"INFO","msg":"stream: closed","id":"ezcta2t3"}

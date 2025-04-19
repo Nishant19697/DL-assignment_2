@@ -1,0 +1,17 @@
+{"time":"2025-04-18T22:15:32.608874824+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T22:15:32.608906073+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_221532-lyq7iam5/logs/debug-core.log"}
+{"time":"2025-04-18T22:15:32.829676906+05:30","level":"INFO","msg":"created new stream","id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:32.829822744+05:30","level":"INFO","msg":"stream: started","id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:32.829881183+05:30","level":"INFO","msg":"handler: started","stream_id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:32.829882223+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:32.830009181+05:30","level":"INFO","msg":"sender: started","stream_id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:33.191580285+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:15:33.440526825+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:15:33.441104085+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:15:34.400575515+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.469410101},{"desc":"updating run config","runtime_seconds":0.137454027}],"total_operations":2}}
+{"time":"2025-04-18T22:15:35.266679246+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:15:38.008968091+05:30","level":"INFO","msg":"stream: closing","id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:38.008997251+05:30","level":"INFO","msg":"handler: closed","stream_id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:38.009009891+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:38.00905023+05:30","level":"INFO","msg":"sender: closed","stream_id":"lyq7iam5"}
+{"time":"2025-04-18T22:15:38.009091549+05:30","level":"INFO","msg":"stream: closed","id":"lyq7iam5"}

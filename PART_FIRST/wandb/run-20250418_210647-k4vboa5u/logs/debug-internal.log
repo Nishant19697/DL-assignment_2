@@ -1,0 +1,17 @@
+{"time":"2025-04-18T21:06:47.295067522+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T21:06:47.295099982+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_210647-k4vboa5u/logs/debug-core.log"}
+{"time":"2025-04-18T21:06:47.51263606+05:30","level":"INFO","msg":"created new stream","id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:47.512717529+05:30","level":"INFO","msg":"stream: started","id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:47.512715979+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:47.512719799+05:30","level":"INFO","msg":"sender: started","stream_id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:47.512862528+05:30","level":"INFO","msg":"handler: started","stream_id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:47.82718026+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:06:48.055474308+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:06:48.056134043+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:06:49.016104428+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.456221031},{"desc":"updating run config","runtime_seconds":0.142447114}],"total_operations":2}}
+{"time":"2025-04-18T21:06:49.806289257+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:06:51.120234276+05:30","level":"INFO","msg":"stream: closing","id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:51.120269775+05:30","level":"INFO","msg":"handler: closed","stream_id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:51.120291565+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:51.120321045+05:30","level":"INFO","msg":"sender: closed","stream_id":"k4vboa5u"}
+{"time":"2025-04-18T21:06:51.120382175+05:30","level":"INFO","msg":"stream: closed","id":"k4vboa5u"}

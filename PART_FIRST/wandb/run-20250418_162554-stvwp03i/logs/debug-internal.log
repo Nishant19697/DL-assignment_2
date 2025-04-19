@@ -1,0 +1,17 @@
+{"time":"2025-04-18T16:25:54.06689432+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-04-18T16:25:54.06691776+05:30","level":"INFO","msg":"created symlink","path":"/speech/shoutrik/torch_exp/my_own/wandb/run-20250418_162554-stvwp03i/logs/debug-core.log"}
+{"time":"2025-04-18T16:25:54.280643346+05:30","level":"INFO","msg":"created new stream","id":"stvwp03i"}
+{"time":"2025-04-18T16:25:54.280720196+05:30","level":"INFO","msg":"stream: started","id":"stvwp03i"}
+{"time":"2025-04-18T16:25:54.280752986+05:30","level":"INFO","msg":"handler: started","stream_id":"stvwp03i"}
+{"time":"2025-04-18T16:25:54.280752946+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"stvwp03i"}
+{"time":"2025-04-18T16:25:54.280771396+05:30","level":"INFO","msg":"sender: started","stream_id":"stvwp03i"}
+{"time":"2025-04-18T16:25:54.616402351+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T16:29:43.694230326+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T16:29:43.695439842+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T16:29:44.694799204+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.408324039,"progress":"243B/243B"},{"desc":"uploading config.yaml","runtime_seconds":0.102270249,"progress":"834B/834B"},{"desc":"uploading output.log","runtime_seconds":0.102259559,"progress":"7.5KB/7.5KB"}],"total_operations":3}}
+{"time":"2025-04-18T16:29:45.93848808+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T16:29:47.251797108+05:30","level":"INFO","msg":"stream: closing","id":"stvwp03i"}
+{"time":"2025-04-18T16:29:47.251834608+05:30","level":"INFO","msg":"handler: closed","stream_id":"stvwp03i"}
+{"time":"2025-04-18T16:29:47.251852338+05:30","level":"INFO","msg":"sender: closed","stream_id":"stvwp03i"}
+{"time":"2025-04-18T16:29:47.251848698+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"stvwp03i"}
+{"time":"2025-04-18T16:29:47.251942328+05:30","level":"INFO","msg":"stream: closed","id":"stvwp03i"}
