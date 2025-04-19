@@ -37,7 +37,7 @@ def train_wrapper():
     train_and_eval(args, logging=True)
 
 sweep_configuration = {
-    'method': 'random',
+    'method': 'bayes',
     'name': 'CNet Optim Sweep',
     'metric': {'goal': 'maximize', 'name': 'val_accuracy'},
     'parameters': {
